@@ -152,4 +152,4 @@ If `reportlab` is not installed, the notebook prints a message and skips only th
 
 ## Author
 
-**<mehtab-hussain>**: [LinkedIn](www.linkedin.com/in/mehtab--hussain) | [GitHub](https://github.com/mahtabhussainofficial)
+<mehtab-hussain>: [LinkedIn](www.linkedin.com/in/mehtab--hussain) | [GitHub](https://github.com/mahtabhussainofficial)
