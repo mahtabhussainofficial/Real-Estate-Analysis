@@ -149,7 +149,3 @@ If `reportlab` is not installed, the notebook prints a message and skips only th
 - Add a predictive pricing model with cross-validation and feature importance.
 - Add locality-level geographic analysis and an interactive dashboard (Streamlit or Power BI).
 - Extend the time series to several years to test for genuine seasonality.
-
-## Author
-
-<mehtab-hussain>: [LinkedIn](www.linkedin.com/in/mehtab--hussain) | [GitHub](https://github.com/mahtabhussainofficial)
