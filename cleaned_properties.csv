@@ -1,0 +1,496 @@
+property_id,city,area_name,property_type,area_marla,bedrooms,bathrooms,price_pkr,year_built,listing_date,furnished,parking_spaces,distance_to_city_center_km,owner_type,status,price_per_marla,property_age,listing_month,listing_month_name,price_category,furnished_label
+PK-0001,Islamabad,DHA Phase 2,House,10.0,4,5,65900000,2001,2026-09-05,No,3,6.6,Dealer,Available,6590000.0,25,9,September,Premium,Unfurnished
+PK-0002,Faisalabad,Eden Gardens,Commercial,8.0,0,2,22500000,2010,2025-06-21,No,1,3.4,Dealer,Pending,2812500.0,16,6,June,Mid-range,Unfurnished
+PK-0003,Lahore,Wapda Town,Commercial,8.0,0,1,49450000,1992,2025-09-29,No,0,16.9,Dealer,Available,6181250.0,34,9,September,Premium,Unfurnished
+PK-0004,Lahore,Model Town,House,20.0,6,7,66650000,1999,2026-03-01,Yes,3,4.1,Owner,Sold,3332500.0,27,3,March,Premium,Furnished
+PK-0005,Multan,Bosan Road,House,5.0,3,3,5300000,1991,2025-04-10,Yes,2,5.3,Owner,Available,1060000.0,35,4,April,Budget,Furnished
+PK-0006,Karachi,Gulshan-e-Iqbal,House,40.0,7,7,154600000,1991,2025-08-25,No,2,1.6,Owner,Available,3865000.0,35,8,August,Luxury,Unfurnished
+PK-0007,Lahore,Valencia Town,Flat,3.0,2,2,8750000,1992,2026-06-08,Yes,1,2.1,Owner,Available,2916667.0,34,6,June,Budget,Furnished
+PK-0008,Lahore,Askari 10,Plot,8.0,0,0,17700000,2024,2026-07-06,No,0,13.1,Owner,Available,2212500.0,2,7,July,Mid-range,Unfurnished
+PK-0009,Lahore,Valencia Town,House,7.0,3,3,23350000,2007,2025-10-27,Yes,2,5.8,Builder,Available,3335714.0,19,10,October,Mid-range,Furnished
+PK-0010,Faisalabad,Eden Gardens,House,7.0,3,3,10000000,2010,2025-05-03,No,2,13.0,Owner,Sold,1428571.0,16,5,May,Mid-range,Unfurnished
+PK-0011,Islamabad,G-13,Flat,4.0,2,3,12300000,2009,2025-03-10,No,1,5.1,Owner,Available,3075000.0,17,3,March,Mid-range,Unfurnished
+PK-0012,Karachi,DHA Phase 6,House,10.0,4,4,21750000,2002,2026-08-29,Yes,2,10.7,Dealer,Pending,2175000.0,24,8,August,Mid-range,Furnished
+PK-0013,Karachi,Gulshan-e-Iqbal,House,20.0,6,6,62000000,2010,2026-03-18,No,2,5.2,Owner,Available,3100000.0,16,3,March,Premium,Unfurnished
+PK-0014,Karachi,Clifton,House,3.0,3,3,9950000,2004,2026-01-18,Yes,2,9.6,Dealer,Sold,3316667.0,22,1,January,Budget,Furnished
+PK-0015,Lahore,Model Town,House,5.0,3,3,17950000,2009,2026-01-18,Yes,1,3.0,Dealer,Sold,3590000.0,17,1,January,Mid-range,Furnished
+PK-0016,Faisalabad,Canal Road,House,10.0,3,3,11200000,2001,2025-04-13,No,3,4.7,Dealer,Sold,1120000.0,25,4,April,Mid-range,Unfurnished
+PK-0017,Lahore,Wapda Town,Flat,3.0,2,3,9600000,1997,2026-07-16,No,1,6.3,Dealer,Available,3200000.0,29,7,July,Budget,Unfurnished
+PK-0018,Islamabad,Gulberg Greens,Flat,4.0,2,2,7450000,2003,2026-09-18,Yes,0,14.4,Unknown,Available,1862500.0,23,9,September,Budget,Furnished
+PK-0019,Karachi,DHA Phase 6,Plot,10.0,0,0,17250000,2020,2026-05-13,No,0,12.4,Dealer,Sold,1725000.0,6,5,May,Mid-range,Unfurnished
+PK-0020,Multan,DHA Multan,Flat,3.0,1,1,4150000,1994,2025-01-24,No,0,2.9,Builder,Pending,1383333.0,32,1,January,Budget,Unfurnished
+PK-0021,Karachi,North Nazimabad,Flat,4.0,2,3,4750000,2002,2025-03-08,Yes,1,8.8,Owner,Available,1187500.0,24,3,March,Budget,Furnished
+PK-0022,Islamabad,E-11,Flat,3.0,2,2,6150000,1996,2026-01-31,No,1,3.8,Owner,Available,2050000.0,30,1,January,Budget,Unfurnished
+PK-0023,Multan,Shah Rukn-e-Alam Colony,House,40.0,7,7,58800000,2002,2025-09-12,Yes,2,5.5,Builder,Sold,1470000.0,24,9,September,Premium,Furnished
+PK-0024,Lahore,Valencia Town,Plot,5.0,0,0,15150000,2005,2025-03-14,No,0,9.6,Dealer,Available,3030000.0,21,3,March,Mid-range,Unfurnished
+PK-0025,Faisalabad,Madina Town,Plot,20.0,0,0,23700000,2014,2025-02-16,No,0,4.6,Dealer,Available,1185000.0,12,2,February,Mid-range,Unfurnished
+PK-0026,Islamabad,I-8,Flat,6.0,2,3,25100000,2006,2025-03-19,No,0,5.5,Owner,Available,4183333.0,20,3,March,Mid-range,Unfurnished
+PK-0027,Karachi,Scheme 33,Plot,20.0,0,0,33200000,1997,2026-05-13,No,0,13.0,Owner,Pending,1660000.0,29,5,May,Premium,Unfurnished
+PK-0028,Islamabad,F-10,House,10.0,3,4,42100000,2005,2025-05-19,No,1,10.8,Owner,Available,4210000.0,21,5,May,Premium,Unfurnished
+PK-0029,Islamabad,Bahria Town Phase 7,Flat,3.0,3,3,6200000,2002,2026-06-07,Yes,0,2.2,Owner,Available,2066667.0,24,6,June,Budget,Furnished
+PK-0030,Lahore,Gulberg,Flat,4.0,2,3,7750000,2006,2025-11-07,No,1,8.6,Owner,Available,1937500.0,20,11,November,Budget,Unfurnished
+PK-0031,Multan,Shah Rukn-e-Alam Colony,Flat,3.0,1,2,5750000,2011,2025-05-21,Yes,1,9.4,Owner,Sold,1916667.0,15,5,May,Budget,Furnished
+PK-0032,Faisalabad,Madina Town,Flat,2.0,1,2,1950000,2008,2025-08-15,No,0,13.6,Dealer,Available,975000.0,18,8,August,Budget,Unfurnished
+PK-0033,Lahore,DHA Phase 5,House,3.0,3,4,11850000,2020,2025-05-10,No,2,2.8,Owner,Available,3950000.0,6,5,May,Mid-range,Unfurnished
+PK-0034,Lahore,DHA Phase 5,House,7.0,2,2,29750000,2021,2026-06-05,Yes,1,5.7,Unknown,Sold,4250000.0,5,6,June,Mid-range,Furnished
+PK-0035,Islamabad,Bahria Town Phase 7,House,5.0,2,2,15150000,2002,2026-01-24,No,3,8.4,Owner,Sold,3030000.0,24,1,January,Mid-range,Unfurnished
+PK-0036,Lahore,Model Town,Plot,20.0,0,0,48600000,2017,2025-03-01,No,0,4.3,Owner,Available,2430000.0,9,3,March,Premium,Unfurnished
+PK-0037,Lahore,Bahria Town,House,5.0,3,4,20350000,1995,2025-04-19,Yes,1,4.9,Dealer,Available,4070000.0,31,4,April,Mid-range,Furnished
+PK-0038,Faisalabad,Madina Town,Flat,3.0,1,1,5150000,2007,2026-04-16,No,0,17.3,Dealer,Available,1716667.0,19,4,April,Budget,Unfurnished
+PK-0039,Lahore,Gulberg,House,3.0,2,2,8150000,2024,2026-02-10,Yes,2,15.9,Dealer,Sold,2716667.0,2,2,February,Budget,Furnished
+PK-0040,Karachi,Clifton,Plot,5.0,0,0,10550000,2014,2026-05-30,No,0,3.6,Dealer,Sold,2110000.0,12,5,May,Mid-range,Unfurnished
+PK-0041,Islamabad,Bahria Town Phase 7,House,20.0,7,7,113950000,2023,2025-03-07,No,2,2.9,Dealer,Sold,5697500.0,3,3,March,Luxury,Unfurnished
+PK-0042,Islamabad,E-11,House,5.0,2,3,26850000,2004,2025-11-09,Yes,2,3.8,Owner,Available,5370000.0,22,11,November,Mid-range,Furnished
+PK-0043,Multan,DHA Multan,House,20.0,6,7,28450000,2007,2026-07-09,No,3,0.5,Owner,Sold,1422500.0,19,7,July,Mid-range,Unfurnished
+PK-0044,Islamabad,Gulberg Greens,Plot,40.0,0,0,167950000,2011,2026-02-07,No,0,3.5,Dealer,Available,4198750.0,15,2,February,Luxury,Unfurnished
+PK-0045,Multan,Cantt,House,20.0,7,4,32800000,2025,2025-04-12,Yes,3,5.1,Dealer,Available,1640000.0,1,4,April,Premium,Furnished
+PK-0046,Lahore,Gulberg,House,3.0,2,3,7600000,1999,2025-05-10,No,1,6.5,Dealer,Available,2533333.0,27,5,May,Budget,Unfurnished
+PK-0047,Karachi,Bahria Town Karachi,House,3.0,2,3,7950000,2018,2025-09-27,Yes,3,5.6,Dealer,Sold,2650000.0,8,9,September,Budget,Furnished
+PK-0048,Multan,DHA Multan,Commercial,4.0,0,2,9900000,2020,2026-03-09,No,1,5.3,Builder,Available,2475000.0,6,3,March,Budget,Unfurnished
+PK-0049,Karachi,North Nazimabad,Flat,6.0,3,3,7000000,2017,2025-12-04,No,0,16.2,Owner,Available,1166667.0,9,12,December,Budget,Unfurnished
+PK-0050,Karachi,Scheme 33,Plot,5.0,0,0,14800000,2024,2025-12-01,No,0,5.5,Owner,Available,2960000.0,2,12,December,Mid-range,Unfurnished
+PK-0051,Lahore,Wapda Town,House,3.0,3,4,11600000,2000,2026-03-21,No,1,16.2,Dealer,Pending,3866667.0,26,3,March,Mid-range,Unfurnished
+PK-0052,Multan,DHA Multan,House,7.0,4,2,9900000,2020,2026-03-19,Yes,2,9.0,Owner,Sold,1414286.0,6,3,March,Budget,Furnished
+PK-0053,Lahore,Model Town,Flat,4.0,3,4,14100000,2019,2025-08-17,No,0,3.7,Dealer,Sold,3525000.0,7,8,August,Mid-range,Unfurnished
+PK-0054,Karachi,Gulshan-e-Iqbal,Plot,20.0,0,0,45050000,2012,2026-05-17,No,0,7.9,Dealer,Sold,2252500.0,14,5,May,Premium,Unfurnished
+PK-0055,Islamabad,E-11,Plot,40.0,0,0,188950000,2004,2025-05-01,No,0,5.6,Owner,Available,4723750.0,22,5,May,Luxury,Unfurnished
+PK-0056,Multan,Wapda Town Multan,Flat,4.0,1,2,4250000,2023,2026-06-26,Yes,1,11.6,Owner,Pending,1062500.0,3,6,June,Budget,Furnished
+PK-0057,Lahore,Valencia Town,House,3.0,2,3,9250000,1992,2026-07-05,Yes,2,10.4,Dealer,Available,3083333.0,34,7,July,Budget,Furnished
+PK-0058,Karachi,Gulistan-e-Jauhar,Plot,10.0,0,0,19950000,2020,2025-05-23,No,0,19.8,Dealer,Sold,1995000.0,6,5,May,Mid-range,Unfurnished
+PK-0059,Islamabad,G-13,Flat,4.0,2,2,11300000,2005,2025-05-10,Yes,1,14.7,Dealer,Available,2825000.0,21,5,May,Mid-range,Furnished
+PK-0060,Karachi,Gulshan-e-Iqbal,Flat,8.0,3,3,16850000,2011,2025-12-18,No,1,9.1,Owner,Sold,2106250.0,15,12,December,Mid-range,Unfurnished
+PK-0061,Karachi,PECHS,Plot,10.0,0,0,18700000,2024,2025-08-25,No,0,12.0,Dealer,Sold,1870000.0,2,8,August,Mid-range,Unfurnished
+PK-0062,Lahore,DHA Phase 5,Flat,3.0,2,3,10850000,2004,2026-08-29,Yes,0,0.8,Builder,Pending,3616667.0,22,8,August,Mid-range,Furnished
+PK-0063,Lahore,Model Town,House,5.0,4,4,18700000,2012,2025-08-02,No,1,3.5,Dealer,Available,3740000.0,14,8,August,Mid-range,Unfurnished
+PK-0064,Islamabad,E-11,Flat,4.0,2,2,12400000,1995,2025-08-31,Yes,1,3.2,Owner,Sold,3100000.0,31,8,August,Mid-range,Furnished
+PK-0065,Lahore,Valencia Town,Plot,20.0,0,0,54800000,2008,2026-09-14,No,0,11.8,Owner,Available,2740000.0,18,9,September,Premium,Unfurnished
+PK-0066,Karachi,North Nazimabad,Plot,20.0,0,0,35700000,1994,2025-11-09,No,0,4.6,Owner,Pending,1785000.0,32,11,November,Premium,Unfurnished
+PK-0067,Islamabad,B-17,House,5.0,3,4,19950000,2004,2026-02-17,Yes,3,4.2,Builder,Available,3990000.0,22,2,February,Mid-range,Furnished
+PK-0068,Karachi,Gulistan-e-Jauhar,Flat,4.0,2,2,14050000,2008,2025-08-24,No,0,4.2,Builder,Available,3512500.0,18,8,August,Mid-range,Unfurnished
+PK-0069,Islamabad,B-17,Flat,4.0,3,3,12150000,1997,2025-12-28,No,1,1.6,Owner,Sold,3037500.0,29,12,December,Mid-range,Unfurnished
+PK-0070,Karachi,North Nazimabad,Flat,4.0,3,3,10800000,2012,2025-07-17,Yes,0,5.6,Owner,Available,2700000.0,14,7,July,Mid-range,Furnished
+PK-0071,Islamabad,I-8,Commercial,8.0,0,2,48300000,2022,2026-04-11,Yes,3,8.3,Dealer,Available,6037500.0,4,4,April,Premium,Furnished
+PK-0072,Karachi,Gulshan-e-Iqbal,Commercial,8.0,0,2,34650000,2015,2025-06-02,Yes,0,10.8,Owner,Sold,4331250.0,11,6,June,Premium,Furnished
+PK-0073,Islamabad,I-8,House,7.0,4,5,25450000,2007,2026-01-24,Yes,1,18.2,Owner,Pending,3635714.0,19,1,January,Mid-range,Furnished
+PK-0074,Lahore,Model Town,Commercial,2.0,0,1,11400000,2008,2025-01-13,No,0,4.7,Builder,Available,5700000.0,18,1,January,Mid-range,Unfurnished
+PK-0075,Lahore,Gulberg,House,20.0,7,7,41200000,2006,2026-04-16,No,3,8.3,Dealer,Available,2060000.0,20,4,April,Premium,Unfurnished
+PK-0076,Islamabad,E-11,Commercial,2.0,0,3,9550000,1998,2025-06-10,Yes,1,7.4,Dealer,Available,4775000.0,28,6,June,Budget,Furnished
+PK-0077,Karachi,PECHS,Plot,5.0,0,0,11100000,2012,2025-12-09,No,0,1.5,Unknown,Available,2220000.0,14,12,December,Mid-range,Unfurnished
+PK-0078,Multan,Shah Rukn-e-Alam Colony,House,3.0,3,3,6350000,2016,2025-11-07,Yes,1,5.8,Dealer,Available,2116667.0,10,11,November,Budget,Furnished
+PK-0079,Karachi,Unknown,Flat,3.0,2,3,9150000,2005,2026-03-15,No,1,2.8,Dealer,Sold,3050000.0,21,3,March,Budget,Unfurnished
+PK-0080,Karachi,Bahria Town Karachi,House,5.0,3,4,23750000,2024,2025-01-21,No,1,5.5,Builder,Available,4750000.0,2,1,January,Mid-range,Unfurnished
+PK-0081,Multan,DHA Multan,Flat,6.0,3,3,6150000,2019,2025-08-04,No,1,25.6,Owner,Sold,1025000.0,7,8,August,Budget,Unfurnished
+PK-0082,Karachi,Gulistan-e-Jauhar,Commercial,20.0,0,4,68800000,1993,2025-04-16,No,3,5.0,Dealer,Available,3440000.0,33,4,April,Premium,Unfurnished
+PK-0083,Islamabad,DHA Phase 2,Plot,10.0,0,0,57350000,2014,2025-09-17,No,0,12.6,Dealer,Sold,5735000.0,12,9,September,Premium,Unfurnished
+PK-0084,Karachi,DHA Phase 6,House,20.0,7,7,63400000,2017,2025-09-08,No,2,3.1,Dealer,Available,3170000.0,9,9,September,Premium,Unfurnished
+PK-0085,Islamabad,G-13,Flat,4.0,2,2,11850000,2010,2026-06-11,No,0,14.0,Builder,Sold,2962500.0,16,6,June,Mid-range,Unfurnished
+PK-0086,Lahore,Model Town,House,7.0,3,4,24350000,2003,2026-02-01,No,1,11.5,Owner,Available,3478571.0,23,2,February,Mid-range,Unfurnished
+PK-0087,Karachi,Bahria Town Karachi,Commercial,2.0,0,4,6850000,1990,2025-05-11,No,3,3.6,Owner,Available,3425000.0,36,5,May,Budget,Unfurnished
+PK-0088,Islamabad,G-13,House,7.0,3,4,26500000,2010,2026-09-20,Yes,3,6.5,Owner,Available,3785714.0,16,9,September,Mid-range,Furnished
+PK-0089,Lahore,Gulberg,Commercial,4.0,0,1,20300000,2016,2026-07-05,No,3,10.6,Owner,Available,5075000.0,10,7,July,Mid-range,Unfurnished
+PK-0090,Islamabad,B-17,House,20.0,7,4,90300000,2006,2025-12-07,No,2,1.9,Builder,Available,4515000.0,20,12,December,Luxury,Unfurnished
+PK-0091,Islamabad,E-11,Plot,10.0,0,0,21750000,2024,2025-05-14,No,0,7.2,Unknown,Sold,2175000.0,2,5,May,Mid-range,Unfurnished
+PK-0092,Lahore,Wapda Town,House,7.0,4,4,25650000,2024,2026-01-07,Yes,1,13.0,Owner,Available,3664286.0,2,1,January,Mid-range,Furnished
+PK-0093,Karachi,DHA Phase 6,Flat,2.0,1,1,5400000,2020,2026-06-30,No,1,5.4,Dealer,Available,2700000.0,6,6,June,Budget,Unfurnished
+PK-0094,Multan,Bosan Road,House,20.0,6,7,30350000,1995,2025-07-27,No,2,4.1,Owner,Pending,1517500.0,31,7,July,Premium,Unfurnished
+PK-0095,Faisalabad,Peoples Colony,House,7.0,3,4,8650000,2000,2026-01-31,No,2,14.2,Dealer,Sold,1235714.0,26,1,January,Budget,Unfurnished
+PK-0096,Lahore,Valencia Town,House,20.0,6,7,44900000,2008,2026-08-28,No,2,8.1,Owner,Sold,2245000.0,18,8,August,Premium,Unfurnished
+PK-0097,Islamabad,Bahria Town Phase 7,Commercial,2.0,0,2,17800000,2011,2025-10-13,No,0,5.3,Owner,Pending,8900000.0,15,10,October,Mid-range,Unfurnished
+PK-0098,Islamabad,DHA Phase 2,Flat,2.0,2,2,6700000,2012,2025-01-31,No,0,5.2,Dealer,Available,3350000.0,14,1,January,Budget,Unfurnished
+PK-0099,Islamabad,G-13,Flat,4.0,2,2,11350000,2019,2026-09-11,No,0,2.7,Dealer,Available,2837500.0,7,9,September,Mid-range,Unfurnished
+PK-0100,Lahore,DHA Phase 5,Flat,2.0,2,2,5100000,1992,2025-01-29,No,0,5.4,Dealer,Sold,2550000.0,34,1,January,Budget,Unfurnished
+PK-0101,Faisalabad,Eden Gardens,House,10.0,4,4,18650000,2014,2025-08-19,No,1,4.3,Dealer,Available,1865000.0,12,8,August,Mid-range,Unfurnished
+PK-0102,Lahore,Valencia Town,Flat,2.0,1,2,5250000,2001,2026-02-19,No,1,5.0,Dealer,Available,2625000.0,25,2,February,Budget,Unfurnished
+PK-0103,Karachi,DHA Phase 6,House,20.0,7,4,31650000,2004,2026-01-25,No,1,8.2,Owner,Available,1582500.0,22,1,January,Premium,Unfurnished
+PK-0104,Islamabad,DHA Phase 2,House,3.0,3,3,10450000,2010,2025-11-21,No,1,10.5,Dealer,Available,3483333.0,16,11,November,Mid-range,Unfurnished
+PK-0105,Lahore,Valencia Town,House,10.0,4,5,43000000,2008,2026-03-29,No,2,10.2,Owner,Sold,4300000.0,18,3,March,Premium,Unfurnished
+PK-0106,Lahore,Bahria Town,Plot,5.0,0,0,14250000,2017,2025-04-24,No,0,4.1,Dealer,Available,2850000.0,9,4,April,Mid-range,Unfurnished
+PK-0107,Karachi,Clifton,Commercial,4.0,0,4,15700000,2000,2025-03-10,No,2,6.0,Dealer,Pending,3925000.0,26,3,March,Mid-range,Unfurnished
+PK-0108,Islamabad,F-10,Flat,4.0,3,3,13500000,2019,2025-10-31,No,1,7.4,Builder,Pending,3375000.0,7,10,October,Mid-range,Unfurnished
+PK-0109,Faisalabad,Eden Gardens,House,20.0,7,7,23050000,1991,2025-03-31,No,1,5.0,Owner,Pending,1152500.0,35,3,March,Mid-range,Unfurnished
+PK-0110,Lahore,Wapda Town,Plot,40.0,0,0,96450000,2009,2026-09-01,No,0,9.6,Owner,Available,2411250.0,17,9,September,Luxury,Unfurnished
+PK-0111,Islamabad,Bahria Town Phase 7,Flat,6.0,2,3,35050000,2008,2025-03-13,No,1,4.1,Owner,Available,5841667.0,18,3,March,Premium,Unfurnished
+PK-0112,Karachi,Bahria Town Karachi,Plot,5.0,0,0,8350000,2000,2026-04-12,No,0,10.7,Builder,Available,1670000.0,26,4,April,Budget,Unfurnished
+PK-0113,Lahore,Model Town,House,5.0,2,2,18300000,1995,2026-06-12,No,3,2.7,Builder,Pending,3660000.0,31,6,June,Mid-range,Unfurnished
+PK-0114,Faisalabad,Peoples Colony,Flat,6.0,3,3,7500000,2000,2026-03-17,No,1,4.6,Builder,Available,1250000.0,26,3,March,Budget,Unfurnished
+PK-0115,Multan,Model Town Multan,Plot,10.0,0,0,12350000,1995,2025-10-22,No,0,5.9,Dealer,Available,1235000.0,31,10,October,Mid-range,Unfurnished
+PK-0116,Karachi,PECHS,House,20.0,6,7,56550000,2021,2025-11-13,No,2,6.8,Dealer,Available,2827500.0,5,11,November,Premium,Unfurnished
+PK-0117,Multan,Bosan Road,Plot,5.0,0,0,4800000,2018,2026-05-21,No,0,6.5,Dealer,Available,960000.0,8,5,May,Budget,Unfurnished
+PK-0118,Lahore,DHA Phase 5,Flat,4.0,1,1,11750000,1997,2025-10-10,No,0,10.8,Builder,Sold,2937500.0,29,10,October,Mid-range,Unfurnished
+PK-0119,Lahore,Bahria Town,Flat,4.0,3,3,9600000,2005,2025-04-25,Yes,0,5.3,Dealer,Pending,2400000.0,21,4,April,Budget,Furnished
+PK-0120,Lahore,Bahria Town,House,5.0,4,4,13950000,2008,2025-04-02,No,3,2.7,Dealer,Sold,2790000.0,18,4,April,Mid-range,Unfurnished
+PK-0121,Islamabad,G-13,Commercial,2.0,0,1,15450000,2015,2025-03-05,No,2,14.9,Dealer,Sold,7725000.0,11,3,March,Mid-range,Unfurnished
+PK-0122,Islamabad,Bahria Town Phase 7,Plot,20.0,0,0,63650000,2013,2025-08-14,No,0,3.9,Owner,Sold,3182500.0,13,8,August,Premium,Unfurnished
+PK-0123,Karachi,DHA Phase 6,Flat,3.0,1,1,5800000,2018,2026-05-22,Yes,1,1.9,Owner,Available,1933333.0,8,5,May,Budget,Furnished
+PK-0124,Karachi,DHA Phase 6,Plot,5.0,0,0,13900000,2018,2025-04-16,No,0,5.5,Builder,Sold,2780000.0,8,4,April,Mid-range,Unfurnished
+PK-0125,Karachi,Clifton,House,10.0,4,4,32500000,2017,2025-11-19,Yes,1,3.8,Dealer,Sold,3250000.0,9,11,November,Premium,Furnished
+PK-0126,Karachi,North Nazimabad,House,20.0,7,7,47450000,2021,2026-05-21,No,2,0.5,Dealer,Available,2372500.0,5,5,May,Premium,Unfurnished
+PK-0127,Karachi,Clifton,Flat,3.0,1,2,9050000,2011,2025-05-17,Yes,0,6.5,Owner,Pending,3016667.0,15,5,May,Budget,Furnished
+PK-0128,Multan,Wapda Town Multan,House,10.0,5,5,14200000,2002,2025-10-24,No,1,9.1,Owner,Sold,1420000.0,24,10,October,Mid-range,Unfurnished
+PK-0129,Faisalabad,Peoples Colony,House,10.0,4,4,19000000,2006,2025-01-27,No,1,3.7,Dealer,Sold,1900000.0,20,1,January,Mid-range,Unfurnished
+PK-0130,Lahore,Gulberg,Flat,3.0,1,1,5500000,2013,2025-05-26,No,0,5.3,Dealer,Available,1833333.0,13,5,May,Budget,Unfurnished
+PK-0131,Lahore,Model Town,House,10.0,4,4,33200000,2013,2025-03-03,Yes,1,4.6,Dealer,Available,3320000.0,13,3,March,Premium,Furnished
+PK-0132,Faisalabad,Madina Town,Flat,4.0,1,1,4400000,2015,2026-06-26,No,1,19.5,Dealer,Pending,1100000.0,11,6,June,Budget,Unfurnished
+PK-0133,Lahore,Gulberg,House,20.0,6,7,64050000,2002,2025-03-27,No,1,15.7,Owner,Available,3202500.0,24,3,March,Premium,Unfurnished
+PK-0134,Faisalabad,Peoples Colony,Plot,10.0,0,0,10200000,2015,2026-09-09,No,0,13.4,Owner,Pending,1020000.0,11,9,September,Mid-range,Unfurnished
+PK-0135,Multan,Cantt,House,10.0,3,3,10700000,1996,2025-05-13,No,2,4.3,Dealer,Available,1070000.0,30,5,May,Mid-range,Unfurnished
+PK-0136,Lahore,Valencia Town,Flat,4.0,2,2,10350000,1994,2025-07-23,No,0,6.8,Dealer,Pending,2587500.0,32,7,July,Mid-range,Unfurnished
+PK-0137,Multan,Shah Rukn-e-Alam Colony,House,5.0,3,4,5300000,2004,2025-05-13,Yes,1,14.8,Dealer,Available,1060000.0,22,5,May,Budget,Furnished
+PK-0138,Karachi,PECHS,House,5.0,3,3,16000000,2010,2025-03-23,No,3,9.8,Owner,Available,3200000.0,16,3,March,Mid-range,Unfurnished
+PK-0139,Karachi,DHA Phase 6,Commercial,8.0,0,1,23850000,2024,2026-04-07,Yes,0,15.1,Owner,Available,2981250.0,2,4,April,Mid-range,Furnished
+PK-0140,Islamabad,E-11,House,5.0,3,4,22900000,2013,2025-08-08,No,2,14.6,Dealer,Available,4580000.0,13,8,August,Mid-range,Unfurnished
+PK-0141,Lahore,Bahria Town,House,7.0,4,4,36850000,2021,2026-06-21,No,3,7.7,Owner,Available,5264286.0,5,6,June,Premium,Unfurnished
+PK-0142,Lahore,Bahria Town,House,20.0,7,7,80100000,1996,2025-04-09,Yes,2,2.4,Owner,Sold,4005000.0,30,4,April,Luxury,Furnished
+PK-0143,Karachi,Gulshan-e-Iqbal,House,10.0,5,6,20000000,2015,2026-09-25,Yes,2,19.4,Dealer,Sold,2000000.0,11,9,September,Mid-range,Furnished
+PK-0144,Faisalabad,Jinnah Colony,House,5.0,2,4,8500000,2001,2025-05-06,Yes,3,4.7,Dealer,Pending,1700000.0,25,5,May,Budget,Furnished
+PK-0145,Karachi,Clifton,Commercial,12.0,0,2,67150000,2011,2025-06-07,No,3,9.0,Dealer,Available,5595833.0,15,6,June,Premium,Unfurnished
+PK-0146,Islamabad,F-10,House,5.0,3,3,18300000,1997,2025-01-31,No,1,2.6,Owner,Available,3660000.0,29,1,January,Mid-range,Unfurnished
+PK-0147,Karachi,PECHS,Commercial,2.0,0,3,8200000,2000,2025-09-17,No,1,13.1,Dealer,Available,4100000.0,26,9,September,Budget,Unfurnished
+PK-0148,Lahore,Valencia Town,Commercial,2.0,0,1,13900000,2020,2025-06-15,No,1,4.2,Dealer,Sold,6950000.0,6,6,June,Mid-range,Unfurnished
+PK-0149,Multan,DHA Multan,Flat,8.0,2,2,8500000,1990,2026-02-27,No,1,5.0,Dealer,Available,1062500.0,36,2,February,Budget,Unfurnished
+PK-0150,Karachi,Scheme 33,Flat,2.0,1,1,3850000,1994,2026-03-09,No,0,3.7,Dealer,Available,1925000.0,32,3,March,Budget,Unfurnished
+PK-0151,Lahore,Wapda Town,Flat,6.0,2,3,14300000,1997,2025-04-16,No,1,5.3,Dealer,Available,2383333.0,29,4,April,Mid-range,Unfurnished
+PK-0152,Faisalabad,Madina Town,Plot,20.0,0,0,29900000,2009,2025-11-25,No,0,2.8,Owner,Available,1495000.0,17,11,November,Mid-range,Unfurnished
+PK-0153,Islamabad,E-11,Commercial,2.0,0,3,14800000,2018,2025-04-08,No,1,4.5,Dealer,Available,7400000.0,8,4,April,Mid-range,Unfurnished
+PK-0154,Karachi,Gulshan-e-Iqbal,House,3.0,2,3,9150000,2016,2025-04-24,No,3,14.6,Dealer,Sold,3050000.0,10,4,April,Budget,Unfurnished
+PK-0155,Islamabad,Bahria Town Phase 7,House,20.0,6,6,86200000,2006,2026-02-16,No,1,9.5,Dealer,Available,4310000.0,20,2,February,Luxury,Unfurnished
+PK-0156,Islamabad,E-11,House,7.0,3,4,17100000,1993,2025-01-17,No,2,6.8,Owner,Available,2442857.0,33,1,January,Mid-range,Unfurnished
+PK-0157,Islamabad,DHA Phase 2,Commercial,12.0,0,3,68250000,2007,2025-12-03,No,3,8.6,Owner,Available,5687500.0,19,12,December,Premium,Unfurnished
+PK-0158,Islamabad,I-8,House,3.0,3,4,13450000,2008,2025-10-26,No,2,2.2,Dealer,Available,4483333.0,18,10,October,Mid-range,Unfurnished
+PK-0159,Multan,Wapda Town Multan,House,5.0,3,3,9300000,2014,2026-02-24,No,2,3.8,Owner,Pending,1860000.0,12,2,February,Budget,Unfurnished
+PK-0160,Karachi,Bahria Town Karachi,House,10.0,5,5,14050000,2001,2025-09-10,No,1,1.1,Builder,Available,1405000.0,25,9,September,Mid-range,Unfurnished
+PK-0161,Karachi,Gulshan-e-Iqbal,Flat,4.0,1,1,7700000,2009,2026-05-06,Yes,1,4.4,Dealer,Available,1925000.0,17,5,May,Budget,Furnished
+PK-0162,Lahore,Gulberg,Commercial,8.0,0,4,86750000,2022,2026-01-19,Yes,0,3.5,Dealer,Sold,10843750.0,4,1,January,Luxury,Furnished
+PK-0163,Karachi,Gulistan-e-Jauhar,Plot,5.0,0,0,7400000,1991,2025-04-10,No,0,8.5,Owner,Available,1480000.0,35,4,April,Budget,Unfurnished
+PK-0164,Lahore,DHA Phase 5,Plot,20.0,0,0,43750000,2020,2025-09-27,No,0,3.9,Owner,Available,2187500.0,6,9,September,Premium,Unfurnished
+PK-0165,Faisalabad,Madina Town,Commercial,12.0,0,2,30300000,2017,2026-09-18,No,4,6.5,Owner,Available,2525000.0,9,9,September,Premium,Unfurnished
+PK-0166,Multan,Model Town Multan,Plot,10.0,0,0,9200000,2020,2025-05-29,No,0,8.4,Dealer,Available,920000.0,6,5,May,Budget,Unfurnished
+PK-0167,Lahore,Askari 10,House,40.0,7,7,130300000,2019,2025-06-21,Yes,2,9.9,Owner,Available,3257500.0,7,6,June,Luxury,Furnished
+PK-0168,Faisalabad,Eden Gardens,House,10.0,4,5,14300000,2022,2025-03-15,No,3,14.0,Owner,Available,1430000.0,4,3,March,Mid-range,Unfurnished
+PK-0169,Multan,Buch Villas,Plot,5.0,0,0,4350000,2011,2025-08-17,No,0,4.4,Owner,Pending,870000.0,15,8,August,Budget,Unfurnished
+PK-0170,Lahore,Askari 10,House,5.0,3,3,12850000,1997,2025-10-05,No,1,6.8,Dealer,Available,2570000.0,29,10,October,Mid-range,Unfurnished
+PK-0171,Lahore,Bahria Town,Commercial,8.0,0,4,19650000,1992,2026-07-24,Yes,2,13.8,Dealer,Pending,2456250.0,34,7,July,Mid-range,Furnished
+PK-0172,Faisalabad,Samanabad,Flat,8.0,3,3,9400000,2025,2026-03-22,No,1,22.6,Dealer,Available,1175000.0,1,3,March,Budget,Unfurnished
+PK-0173,Multan,Cantt,Plot,5.0,0,0,8600000,2003,2025-08-02,No,0,2.5,Dealer,Available,1720000.0,23,8,August,Budget,Unfurnished
+PK-0174,Multan,Wapda Town Multan,House,7.0,3,4,4950000,1996,2025-10-03,No,3,19.0,Dealer,Sold,707143.0,30,10,October,Budget,Unfurnished
+PK-0175,Islamabad,Gulberg Greens,Flat,3.0,1,2,12250000,2019,2025-09-21,No,1,7.4,Dealer,Sold,4083333.0,7,9,September,Mid-range,Unfurnished
+PK-0176,Lahore,Johar Town,House,10.0,5,6,33350000,1999,2025-02-21,No,2,1.0,Builder,Sold,3335000.0,27,2,February,Premium,Unfurnished
+PK-0177,Islamabad,B-17,Plot,10.0,0,0,23450000,2008,2025-01-07,No,0,6.9,Dealer,Sold,2345000.0,18,1,January,Mid-range,Unfurnished
+PK-0178,Lahore,Model Town,House,3.0,5,5,10800000,2020,2026-09-24,Yes,2,7.3,Owner,Available,3600000.0,6,9,September,Mid-range,Furnished
+PK-0179,Karachi,Gulshan-e-Iqbal,House,7.0,3,3,20500000,1999,2026-09-11,No,2,3.2,Owner,Sold,2928571.0,27,9,September,Mid-range,Unfurnished
+PK-0180,Lahore,Askari 10,House,20.0,7,7,60350000,1998,2026-03-21,No,2,14.8,Dealer,Available,3017500.0,28,3,March,Premium,Unfurnished
+PK-0181,Multan,Model Town Multan,House,10.0,4,4,7700000,1993,2025-04-11,No,3,4.2,Owner,Pending,770000.0,33,4,April,Budget,Unfurnished
+PK-0182,Karachi,Gulistan-e-Jauhar,House,20.0,7,7,39050000,2006,2026-03-28,No,2,5.6,Owner,Available,1952500.0,20,3,March,Premium,Unfurnished
+PK-0183,Karachi,DHA Phase 6,House,3.0,2,3,10050000,2004,2025-08-20,No,1,5.3,Dealer,Available,3350000.0,22,8,August,Mid-range,Unfurnished
+PK-0184,Karachi,North Nazimabad,House,10.0,4,5,23900000,2005,2026-06-17,No,2,5.4,Dealer,Available,2390000.0,21,6,June,Mid-range,Unfurnished
+PK-0185,Lahore,Wapda Town,Flat,2.0,1,1,5250000,2024,2025-10-01,Yes,0,5.4,Builder,Available,2625000.0,2,10,October,Budget,Furnished
+PK-0186,Lahore,Johar Town,Flat,3.0,2,2,9100000,2023,2026-06-18,No,1,12.1,Dealer,Available,3033333.0,3,6,June,Budget,Unfurnished
+PK-0187,Karachi,PECHS,Plot,5.0,0,0,10700000,2014,2025-12-10,No,0,6.6,Owner,Available,2140000.0,12,12,December,Mid-range,Unfurnished
+PK-0188,Faisalabad,Peoples Colony,House,10.0,5,5,21750000,2000,2025-05-21,Yes,1,2.5,Builder,Available,2175000.0,26,5,May,Mid-range,Furnished
+PK-0189,Karachi,Gulshan-e-Iqbal,Commercial,4.0,0,4,20350000,2007,2025-12-22,No,2,5.5,Builder,Pending,5087500.0,19,12,December,Mid-range,Unfurnished
+PK-0190,Lahore,Wapda Town,House,3.0,2,3,12150000,2011,2026-08-24,No,2,13.5,Dealer,Available,4050000.0,15,8,August,Mid-range,Unfurnished
+PK-0191,Lahore,Johar Town,House,5.0,2,3,23250000,2008,2025-01-12,No,3,11.1,Owner,Available,4650000.0,18,1,January,Mid-range,Unfurnished
+PK-0192,Karachi,Clifton,House,5.0,3,3,22000000,2013,2025-01-16,Yes,1,6.5,Owner,Pending,4400000.0,13,1,January,Mid-range,Furnished
+PK-0193,Lahore,Wapda Town,House,40.0,7,7,140500000,2011,2026-06-27,No,1,3.6,Owner,Available,3512500.0,15,6,June,Luxury,Unfurnished
+PK-0194,Faisalabad,Peoples Colony,Plot,40.0,0,0,65650000,2002,2026-06-23,No,0,4.1,Dealer,Available,1641250.0,24,6,June,Premium,Unfurnished
+PK-0195,Lahore,Model Town,House,5.0,3,4,29350000,2011,2026-09-18,Yes,1,5.4,Dealer,Sold,5870000.0,15,9,September,Mid-range,Furnished
+PK-0196,Multan,Bosan Road,Flat,3.0,2,2,3200000,1994,2025-03-17,Yes,1,2.1,Dealer,Available,1066667.0,32,3,March,Budget,Furnished
+PK-0197,Lahore,Wapda Town,House,10.0,5,5,57450000,2021,2025-01-18,No,1,8.1,Owner,Sold,5745000.0,5,1,January,Premium,Unfurnished
+PK-0198,Faisalabad,Samanabad,House,5.0,2,3,18300000,2022,2025-01-26,No,3,9.9,Owner,Pending,3660000.0,4,1,January,Mid-range,Unfurnished
+PK-0199,Lahore,Unknown,Flat,4.0,1,1,8050000,1997,2025-02-19,No,1,6.5,Owner,Available,2012500.0,29,2,February,Budget,Unfurnished
+PK-0200,Multan,Gulgasht Colony,Flat,2.0,2,3,1700000,1992,2026-02-04,No,0,7.5,Owner,Available,850000.0,34,2,February,Budget,Unfurnished
+PK-0201,Faisalabad,Jinnah Colony,House,7.0,4,3,10550000,1997,2025-01-15,Yes,3,5.9,Owner,Available,1507143.0,29,1,January,Mid-range,Furnished
+PK-0202,Lahore,Askari 10,Flat,8.0,4,4,15100000,1990,2025-11-26,No,0,5.6,Dealer,Pending,1887500.0,36,11,November,Mid-range,Unfurnished
+PK-0203,Multan,Shah Rukn-e-Alam Colony,Flat,6.0,2,2,7400000,2001,2025-01-17,Yes,1,17.9,Dealer,Available,1233333.0,25,1,January,Budget,Furnished
+PK-0204,Faisalabad,Samanabad,House,5.0,3,3,8100000,2007,2026-07-17,No,1,3.2,Dealer,Sold,1620000.0,19,7,July,Budget,Unfurnished
+PK-0205,Karachi,Bahria Town Karachi,Flat,2.0,1,1,5750000,1993,2025-04-09,No,0,14.6,Owner,Sold,2875000.0,33,4,April,Budget,Unfurnished
+PK-0206,Faisalabad,Samanabad,House,10.0,5,6,13400000,2015,2026-07-29,No,3,12.6,Owner,Sold,1340000.0,11,7,July,Mid-range,Unfurnished
+PK-0207,Multan,Gulgasht Colony,Plot,5.0,0,0,4650000,2017,2025-11-30,No,0,5.7,Owner,Sold,930000.0,9,11,November,Budget,Unfurnished
+PK-0208,Islamabad,Gulberg Greens,House,40.0,7,7,199900000,1994,2026-07-30,Yes,1,9.1,Dealer,Sold,4997500.0,32,7,July,Luxury,Furnished
+PK-0209,Multan,Bosan Road,House,5.0,3,3,8950000,2023,2026-06-05,No,2,4.3,Dealer,Sold,1790000.0,3,6,June,Budget,Unfurnished
+PK-0210,Multan,Cantt,Plot,20.0,0,0,35150000,2016,2026-06-15,No,0,7.4,Builder,Available,1757500.0,10,6,June,Premium,Unfurnished
+PK-0211,Karachi,Scheme 33,Plot,5.0,0,0,9950000,2020,2025-09-05,No,0,9.6,Owner,Pending,1990000.0,6,9,September,Budget,Unfurnished
+PK-0212,Karachi,Clifton,Plot,10.0,0,0,32050000,2005,2026-05-03,No,0,7.6,Dealer,Available,3205000.0,21,5,May,Premium,Unfurnished
+PK-0214,Lahore,Gulberg,House,20.0,6,7,69050000,1990,2026-04-13,No,2,14.4,Owner,Available,3452500.0,36,4,April,Premium,Unfurnished
+PK-0215,Islamabad,B-17,House,20.0,6,6,62750000,2002,2026-01-28,No,3,1.5,Owner,Pending,3137500.0,24,1,January,Premium,Unfurnished
+PK-0216,Lahore,Model Town,Flat,2.0,2,3,4250000,1997,2026-05-03,No,1,11.6,Owner,Available,2125000.0,29,5,May,Budget,Unfurnished
+PK-0217,Faisalabad,Eden Gardens,Flat,4.0,2,3,4950000,2009,2026-09-26,No,0,2.8,Builder,Sold,1237500.0,17,9,September,Budget,Unfurnished
+PK-0218,Lahore,DHA Phase 5,Commercial,2.0,0,3,14700000,2014,2026-06-25,No,0,4.4,Owner,Sold,7350000.0,12,6,June,Mid-range,Unfurnished
+PK-0219,Lahore,Model Town,Flat,4.0,2,2,10500000,2001,2026-03-22,No,0,8.8,Owner,Sold,2625000.0,25,3,March,Mid-range,Unfurnished
+PK-0220,Lahore,Bahria Town,House,10.0,4,5,34200000,2005,2026-08-22,No,2,20.9,Owner,Sold,3420000.0,21,8,August,Premium,Unfurnished
+PK-0221,Islamabad,Gulberg Greens,Flat,3.0,1,1,9350000,2001,2025-10-10,No,1,5.3,Owner,Sold,3116667.0,25,10,October,Budget,Unfurnished
+PK-0222,Karachi,PECHS,Plot,5.0,0,0,10500000,2014,2025-04-11,No,0,17.9,Dealer,Sold,2100000.0,12,4,April,Mid-range,Unfurnished
+PK-0223,Karachi,DHA Phase 6,Commercial,12.0,0,4,64600000,2024,2026-06-16,No,1,0.8,Dealer,Sold,5383333.0,2,6,June,Premium,Unfurnished
+PK-0224,Islamabad,Bahria Town Phase 7,House,10.0,3,3,47950000,2021,2025-05-09,No,3,2.6,Dealer,Sold,4795000.0,5,5,May,Premium,Unfurnished
+PK-0225,Multan,Cantt,House,7.0,4,3,13200000,2023,2025-10-09,No,1,7.8,Dealer,Available,1885714.0,3,10,October,Mid-range,Unfurnished
+PK-0226,Multan,Bosan Road,House,3.0,4,2,4250000,2003,2025-07-21,No,2,2.4,Owner,Available,1416667.0,23,7,July,Budget,Unfurnished
+PK-0227,Lahore,Askari 10,House,10.0,3,3,27750000,1992,2026-03-05,No,2,2.7,Owner,Pending,2775000.0,34,3,March,Mid-range,Unfurnished
+PK-0228,Lahore,Johar Town,House,5.0,3,3,7550000,1998,2025-12-30,Yes,2,7.9,Owner,Sold,1510000.0,28,12,December,Budget,Furnished
+PK-0229,Karachi,North Nazimabad,Flat,2.0,1,1,4450000,2010,2025-01-26,No,1,0.5,Owner,Sold,2225000.0,16,1,January,Budget,Unfurnished
+PK-0230,Karachi,Gulistan-e-Jauhar,Plot,10.0,0,0,35200000,2010,2026-04-19,No,0,9.8,Dealer,Pending,3520000.0,16,4,April,Premium,Unfurnished
+PK-0231,Lahore,Johar Town,House,7.0,3,4,30100000,1997,2025-09-12,Yes,3,3.4,Dealer,Available,4300000.0,29,9,September,Premium,Furnished
+PK-0232,Karachi,Clifton,Flat,6.0,3,3,11450000,2018,2026-07-21,No,1,3.6,Builder,Available,1908333.0,8,7,July,Mid-range,Unfurnished
+PK-0233,Lahore,Wapda Town,Plot,20.0,0,0,44100000,1997,2026-06-25,No,0,11.1,Owner,Available,2205000.0,29,6,June,Premium,Unfurnished
+PK-0234,Lahore,Bahria Town,Flat,3.0,2,2,5750000,2000,2025-02-01,No,0,13.1,Dealer,Available,1916667.0,26,2,February,Budget,Unfurnished
+PK-0235,Karachi,Scheme 33,House,5.0,3,3,10800000,2005,2026-09-24,Yes,1,3.8,Owner,Available,2160000.0,21,9,September,Mid-range,Furnished
+PK-0236,Islamabad,I-8,Flat,4.0,2,2,9200000,2025,2026-02-02,No,1,18.2,Owner,Sold,2300000.0,1,2,February,Budget,Unfurnished
+PK-0237,Karachi,Clifton,House,7.0,3,3,30600000,1991,2026-06-25,Yes,2,6.6,Owner,Sold,4371429.0,35,6,June,Premium,Furnished
+PK-0238,Lahore,Wapda Town,Plot,10.0,0,0,32850000,2002,2025-07-05,No,0,19.7,Owner,Available,3285000.0,24,7,July,Premium,Unfurnished
+PK-0239,Multan,Shah Rukn-e-Alam Colony,Plot,20.0,0,0,23600000,2012,2026-01-04,No,0,4.7,Owner,Pending,1180000.0,14,1,January,Mid-range,Unfurnished
+PK-0240,Karachi,Clifton,House,3.0,2,3,12450000,2024,2025-02-20,No,1,5.6,Owner,Sold,4150000.0,2,2,February,Mid-range,Unfurnished
+PK-0241,Faisalabad,Eden Gardens,House,5.0,2,2,9600000,2014,2026-04-08,No,1,7.7,Owner,Sold,1920000.0,12,4,April,Budget,Unfurnished
+PK-0242,Lahore,Wapda Town,Plot,10.0,0,0,26800000,1998,2026-05-12,No,0,4.4,Dealer,Available,2680000.0,28,5,May,Mid-range,Unfurnished
+PK-0243,Lahore,Gulberg,House,7.0,3,3,22500000,1990,2026-05-19,No,2,2.7,Dealer,Available,3214286.0,36,5,May,Mid-range,Unfurnished
+PK-0244,Lahore,Unknown,House,10.0,4,5,32100000,2001,2025-12-28,No,2,2.5,Builder,Pending,3210000.0,25,12,December,Premium,Unfurnished
+PK-0245,Lahore,Askari 10,House,10.0,4,5,34500000,2004,2025-10-15,No,2,10.0,Owner,Available,3450000.0,22,10,October,Premium,Unfurnished
+PK-0246,Karachi,Scheme 33,House,10.0,5,6,25250000,1991,2026-08-20,No,2,6.5,Dealer,Available,2525000.0,35,8,August,Mid-range,Unfurnished
+PK-0247,Islamabad,I-8,House,10.0,4,4,35450000,1996,2025-02-27,No,3,3.9,Dealer,Available,3545000.0,30,2,February,Premium,Unfurnished
+PK-0248,Islamabad,F-10,Flat,8.0,3,3,23200000,2005,2025-04-22,No,1,6.5,Owner,Available,2900000.0,21,4,April,Mid-range,Unfurnished
+PK-0249,Faisalabad,Samanabad,House,7.0,3,3,8200000,1990,2025-09-13,Yes,3,7.4,Dealer,Sold,1171429.0,36,9,September,Budget,Furnished
+PK-0250,Lahore,Model Town,Flat,4.0,2,2,11350000,2012,2025-04-14,No,0,5.8,Dealer,Available,2837500.0,14,4,April,Mid-range,Unfurnished
+PK-0251,Multan,Shah Rukn-e-Alam Colony,House,5.0,2,3,5600000,2016,2026-07-14,Yes,1,4.3,Owner,Available,1120000.0,10,7,July,Budget,Furnished
+PK-0252,Faisalabad,Samanabad,Flat,2.0,1,1,1700000,2019,2025-09-18,No,1,7.4,Builder,Available,850000.0,7,9,September,Budget,Unfurnished
+PK-0253,Karachi,DHA Phase 6,Flat,6.0,3,3,16950000,1994,2025-05-31,Yes,0,7.2,Dealer,Available,2825000.0,32,5,May,Mid-range,Furnished
+PK-0254,Multan,DHA Multan,House,5.0,2,2,8450000,2009,2026-08-27,No,3,8.0,Owner,Available,1690000.0,17,8,August,Budget,Unfurnished
+PK-0255,Lahore,Wapda Town,Flat,2.0,1,1,5000000,2022,2025-07-24,Yes,0,1.9,Dealer,Sold,2500000.0,4,7,July,Budget,Furnished
+PK-0256,Karachi,North Nazimabad,House,5.0,2,2,18850000,2024,2025-02-06,No,2,6.8,Owner,Sold,3770000.0,2,2,February,Mid-range,Unfurnished
+PK-0257,Islamabad,F-10,House,7.0,4,4,33150000,2004,2025-04-27,Yes,2,12.2,Builder,Available,4735714.0,22,4,April,Premium,Furnished
+PK-0258,Karachi,PECHS,House,5.0,3,4,20500000,1990,2025-08-14,No,2,15.7,Dealer,Available,4100000.0,36,8,August,Mid-range,Unfurnished
+PK-0259,Karachi,Gulistan-e-Jauhar,House,20.0,6,7,83000000,2009,2025-05-24,Yes,2,10.8,Owner,Available,4150000.0,17,5,May,Luxury,Furnished
+PK-0260,Faisalabad,Canal Road,Flat,3.0,2,2,5850000,2011,2025-02-28,No,1,5.2,Dealer,Available,1950000.0,15,2,February,Budget,Unfurnished
+PK-0261,Karachi,PECHS,House,10.0,4,4,21750000,2019,2026-03-30,No,1,11.6,Dealer,Available,2175000.0,7,3,March,Mid-range,Unfurnished
+PK-0262,Lahore,Bahria Town,Plot,10.0,0,0,32100000,1998,2025-07-30,No,0,2.7,Owner,Sold,3210000.0,28,7,July,Premium,Unfurnished
+PK-0263,Lahore,Johar Town,House,10.0,4,4,55900000,2013,2025-08-06,No,2,4.3,Dealer,Pending,5590000.0,13,8,August,Premium,Unfurnished
+PK-0264,Karachi,North Nazimabad,Flat,3.0,2,2,8300000,2019,2026-07-19,Yes,1,16.6,Dealer,Available,2766667.0,7,7,July,Budget,Furnished
+PK-0265,Karachi,DHA Phase 6,House,7.0,4,5,13800000,2013,2026-02-16,No,3,13.0,Dealer,Sold,1971429.0,13,2,February,Mid-range,Unfurnished
+PK-0266,Lahore,Gulberg,House,20.0,6,7,42500000,1995,2026-01-14,Yes,3,7.0,Builder,Sold,2125000.0,31,1,January,Premium,Furnished
+PK-0267,Karachi,Bahria Town Karachi,Commercial,8.0,0,3,37600000,2023,2025-09-28,Yes,3,5.1,Unknown,Pending,4700000.0,3,9,September,Premium,Furnished
+PK-0268,Karachi,Gulistan-e-Jauhar,House,7.0,4,5,12700000,1992,2025-07-17,No,2,11.5,Dealer,Available,1814286.0,34,7,July,Mid-range,Unfurnished
+PK-0269,Lahore,Askari 10,House,7.0,3,3,43150000,2013,2026-05-11,No,2,2.9,Dealer,Available,6164286.0,13,5,May,Premium,Unfurnished
+PK-0270,Karachi,Bahria Town Karachi,House,3.0,2,2,9900000,2013,2025-11-24,Yes,3,9.8,Owner,Available,3300000.0,13,11,November,Budget,Furnished
+PK-0271,Faisalabad,Eden Gardens,Commercial,4.0,0,1,11500000,2023,2026-03-08,No,1,24.4,Owner,Sold,2875000.0,3,3,March,Mid-range,Unfurnished
+PK-0272,Lahore,Valencia Town,Flat,3.0,2,2,11300000,2007,2025-11-29,Yes,0,3.5,Owner,Sold,3766667.0,19,11,November,Mid-range,Furnished
+PK-0273,Karachi,Unknown,House,7.0,4,5,21150000,2020,2026-01-14,No,1,7.0,Owner,Available,3021429.0,6,1,January,Mid-range,Unfurnished
+PK-0274,Multan,Cantt,Plot,8.0,0,0,10150000,2021,2025-07-19,No,0,9.8,Owner,Sold,1268750.0,5,7,July,Mid-range,Unfurnished
+PK-0275,Islamabad,G-13,Flat,8.0,4,5,28850000,1998,2026-01-22,No,1,6.9,Dealer,Available,3606250.0,28,1,January,Mid-range,Unfurnished
+PK-0276,Faisalabad,Madina Town,House,3.0,2,2,5050000,2007,2026-08-12,No,2,8.3,Owner,Available,1683333.0,19,8,August,Budget,Unfurnished
+PK-0277,Karachi,Scheme 33,Flat,2.0,2,3,5900000,2020,2026-03-13,No,1,10.8,Builder,Pending,2950000.0,6,3,March,Budget,Unfurnished
+PK-0278,Multan,Model Town Multan,Plot,8.0,0,0,11750000,2019,2025-01-26,No,0,7.9,Builder,Pending,1468750.0,7,1,January,Mid-range,Unfurnished
+PK-0279,Islamabad,I-8,Flat,2.0,2,3,6000000,2007,2026-01-21,No,0,6.2,Dealer,Available,3000000.0,19,1,January,Budget,Unfurnished
+PK-0280,Karachi,PECHS,House,3.0,2,2,11650000,2009,2025-01-26,Yes,2,2.4,Dealer,Pending,3883333.0,17,1,January,Mid-range,Furnished
+PK-0281,Karachi,PECHS,Flat,6.0,3,3,8600000,2023,2026-04-17,No,0,12.0,Owner,Pending,1433333.0,3,4,April,Budget,Unfurnished
+PK-0282,Karachi,Gulistan-e-Jauhar,House,5.0,3,4,11850000,1993,2026-06-27,Yes,2,7.6,Dealer,Available,2370000.0,33,6,June,Mid-range,Furnished
+PK-0283,Islamabad,DHA Phase 2,House,20.0,7,7,66400000,2012,2026-05-23,No,3,3.3,Owner,Available,3320000.0,14,5,May,Premium,Unfurnished
+PK-0284,Faisalabad,Canal Road,House,20.0,6,7,24050000,2002,2025-07-11,No,3,9.0,Builder,Available,1202500.0,24,7,July,Mid-range,Unfurnished
+PK-0285,Karachi,Scheme 33,Flat,3.0,1,2,9550000,2004,2025-06-16,Yes,1,7.8,Owner,Available,3183333.0,22,6,June,Budget,Furnished
+PK-0286,Faisalabad,Canal Road,House,5.0,3,4,6950000,1999,2025-11-16,No,2,0.8,Dealer,Available,1390000.0,27,11,November,Budget,Unfurnished
+PK-0287,Islamabad,Bahria Town Phase 7,House,7.0,3,4,21150000,2006,2026-05-28,No,3,16.1,Dealer,Pending,3021429.0,20,5,May,Mid-range,Unfurnished
+PK-0288,Faisalabad,Jinnah Colony,Flat,6.0,3,4,9050000,2014,2026-01-23,Yes,0,6.5,Dealer,Available,1508333.0,12,1,January,Budget,Furnished
+PK-0289,Faisalabad,Millat Town,House,3.0,2,3,3500000,1994,2026-02-28,No,1,6.6,Dealer,Available,1166667.0,32,2,February,Budget,Unfurnished
+PK-0290,Lahore,Model Town,Flat,3.0,1,1,10150000,2004,2026-07-14,No,1,4.3,Dealer,Sold,3383333.0,22,7,July,Mid-range,Unfurnished
+PK-0291,Islamabad,Bahria Town Phase 7,House,5.0,3,3,35550000,2013,2026-06-14,No,1,8.2,Dealer,Available,7110000.0,13,6,June,Premium,Unfurnished
+PK-0292,Lahore,Unknown,Commercial,4.0,0,1,29450000,2020,2025-11-28,No,4,1.3,Dealer,Available,7362500.0,6,11,November,Mid-range,Unfurnished
+PK-0293,Faisalabad,Peoples Colony,Plot,20.0,0,0,24300000,1992,2025-05-01,No,0,4.3,Dealer,Pending,1215000.0,34,5,May,Mid-range,Unfurnished
+PK-0294,Karachi,Gulistan-e-Jauhar,House,10.0,4,4,27500000,2011,2026-03-09,No,1,8.1,Owner,Available,2750000.0,15,3,March,Mid-range,Unfurnished
+PK-0295,Multan,Wapda Town Multan,House,40.0,7,7,40050000,2018,2026-01-16,No,2,16.6,Dealer,Available,1001250.0,8,1,January,Premium,Unfurnished
+PK-0296,Lahore,Model Town,House,10.0,3,3,24950000,2006,2025-02-03,No,2,19.9,Dealer,Available,2495000.0,20,2,February,Mid-range,Unfurnished
+PK-0297,Karachi,Bahria Town Karachi,Flat,6.0,2,2,19100000,2001,2025-07-31,No,0,5.4,Owner,Available,3183333.0,25,7,July,Mid-range,Unfurnished
+PK-0298,Islamabad,E-11,Flat,3.0,1,2,7750000,2017,2026-06-11,No,0,4.3,Dealer,Sold,2583333.0,9,6,June,Budget,Unfurnished
+PK-0299,Karachi,DHA Phase 6,House,5.0,2,2,9850000,2006,2025-08-14,Yes,3,11.0,Dealer,Available,1970000.0,20,8,August,Budget,Furnished
+PK-0300,Islamabad,I-8,Flat,6.0,3,3,29150000,2015,2026-02-23,No,0,8.9,Owner,Sold,4858333.0,11,2,February,Mid-range,Unfurnished
+PK-0301,Lahore,Valencia Town,Commercial,4.0,0,4,28800000,1997,2025-03-27,No,3,3.3,Builder,Sold,7200000.0,29,3,March,Mid-range,Unfurnished
+PK-0302,Karachi,Clifton,House,3.0,2,2,12850000,2023,2026-01-28,No,3,6.8,Owner,Available,4283333.0,3,1,January,Mid-range,Unfurnished
+PK-0303,Lahore,Askari 10,Commercial,4.0,0,3,21550000,1997,2025-11-28,No,3,10.7,Dealer,Available,5387500.0,29,11,November,Mid-range,Unfurnished
+PK-0304,Lahore,DHA Phase 5,Flat,2.0,1,2,3800000,2020,2025-10-05,No,1,9.5,Owner,Sold,1900000.0,6,10,October,Budget,Unfurnished
+PK-0305,Karachi,Bahria Town Karachi,Plot,40.0,0,0,77400000,2018,2026-06-08,No,0,5.3,Owner,Sold,1935000.0,8,6,June,Luxury,Unfurnished
+PK-0306,Multan,Model Town Multan,Flat,2.0,2,2,1450000,1998,2025-04-01,No,1,13.4,Owner,Available,725000.0,28,4,April,Budget,Unfurnished
+PK-0307,Islamabad,Bahria Town Phase 7,House,10.0,4,4,37650000,2006,2025-03-10,No,1,13.4,Dealer,Available,3765000.0,20,3,March,Premium,Unfurnished
+PK-0308,Islamabad,E-11,Plot,10.0,0,0,46600000,1992,2026-05-17,No,0,9.2,Owner,Pending,4660000.0,34,5,May,Premium,Unfurnished
+PK-0309,Faisalabad,Peoples Colony,House,5.0,3,4,8250000,2006,2026-09-02,No,3,3.6,Owner,Available,1650000.0,20,9,September,Budget,Unfurnished
+PK-0310,Faisalabad,Jinnah Colony,Commercial,8.0,0,1,18650000,2016,2025-10-08,Yes,2,13.2,Dealer,Pending,2331250.0,10,10,October,Mid-range,Furnished
+PK-0311,Islamabad,E-11,House,3.0,3,4,11400000,2017,2025-12-25,No,2,6.5,Dealer,Available,3800000.0,9,12,December,Mid-range,Unfurnished
+PK-0312,Lahore,DHA Phase 5,Plot,10.0,0,0,34400000,1997,2025-08-20,No,0,4.5,Dealer,Available,3440000.0,29,8,August,Premium,Unfurnished
+PK-0313,Karachi,Gulshan-e-Iqbal,Plot,10.0,0,0,27850000,2022,2026-09-10,No,0,2.2,Dealer,Sold,2785000.0,4,9,September,Mid-range,Unfurnished
+PK-0314,Karachi,PECHS,Plot,20.0,0,0,64900000,2010,2026-05-21,No,0,2.0,Owner,Sold,3245000.0,16,5,May,Premium,Unfurnished
+PK-0315,Faisalabad,Peoples Colony,House,20.0,5,5,38000000,2020,2025-03-24,No,2,7.9,Owner,Sold,1900000.0,6,3,March,Premium,Unfurnished
+PK-0316,Lahore,Model Town,Flat,2.0,1,2,4600000,2002,2026-09-25,Yes,1,9.4,Unknown,Available,2300000.0,24,9,September,Budget,Furnished
+PK-0317,Multan,Wapda Town Multan,Plot,20.0,0,0,23900000,1993,2025-01-25,No,0,8.9,Owner,Pending,1195000.0,33,1,January,Mid-range,Unfurnished
+PK-0318,Faisalabad,Citi Housing,House,40.0,7,7,59200000,2000,2026-07-10,Yes,2,6.4,Dealer,Available,1480000.0,26,7,July,Premium,Furnished
+PK-0319,Lahore,Askari 10,Flat,6.0,2,3,25200000,2015,2025-08-10,No,0,5.0,Owner,Available,4200000.0,11,8,August,Mid-range,Unfurnished
+PK-0320,Islamabad,G-13,Plot,10.0,0,0,36200000,2011,2025-06-18,No,0,14.4,Owner,Available,3620000.0,15,6,June,Premium,Unfurnished
+PK-0321,Karachi,DHA Phase 6,House,7.0,3,4,8450000,2001,2026-01-02,No,1,28.0,Dealer,Available,1207143.0,25,1,January,Budget,Unfurnished
+PK-0322,Karachi,Gulshan-e-Iqbal,Commercial,4.0,0,4,24200000,2006,2025-05-19,No,3,2.1,Dealer,Sold,6050000.0,20,5,May,Mid-range,Unfurnished
+PK-0323,Lahore,Model Town,House,7.0,4,5,24450000,1993,2026-06-04,Yes,2,5.0,Owner,Sold,3492857.0,33,6,June,Mid-range,Furnished
+PK-0324,Lahore,DHA Phase 5,House,5.0,4,3,15600000,2002,2026-04-05,Yes,3,24.1,Owner,Available,3120000.0,24,4,April,Mid-range,Furnished
+PK-0325,Karachi,PECHS,Plot,5.0,0,0,15600000,2000,2026-08-03,No,0,4.0,Dealer,Sold,3120000.0,26,8,August,Mid-range,Unfurnished
+PK-0326,Lahore,Bahria Town,Plot,5.0,0,0,18750000,2019,2026-06-21,No,0,3.3,Owner,Sold,3750000.0,7,6,June,Mid-range,Unfurnished
+PK-0327,Karachi,North Nazimabad,Flat,4.0,3,4,10350000,2001,2025-06-11,No,0,12.8,Dealer,Available,2587500.0,25,6,June,Mid-range,Unfurnished
+PK-0328,Multan,Wapda Town Multan,Plot,10.0,0,0,11400000,2024,2025-12-22,No,0,3.6,Builder,Sold,1140000.0,2,12,December,Mid-range,Unfurnished
+PK-0329,Faisalabad,Samanabad,House,20.0,7,7,39350000,2002,2025-11-19,No,1,5.0,Owner,Sold,1967500.0,24,11,November,Premium,Unfurnished
+PK-0330,Faisalabad,Eden Gardens,House,5.0,2,2,7100000,2015,2026-02-08,No,1,6.7,Owner,Available,1420000.0,11,2,February,Budget,Unfurnished
+PK-0331,Islamabad,E-11,House,5.0,4,2,32150000,2021,2025-03-11,No,3,6.4,Owner,Pending,6430000.0,5,3,March,Premium,Unfurnished
+PK-0332,Faisalabad,Peoples Colony,Plot,8.0,0,0,10700000,2016,2025-04-10,No,0,6.6,Owner,Available,1337500.0,10,4,April,Mid-range,Unfurnished
+PK-0333,Faisalabad,Samanabad,Plot,5.0,0,0,6750000,2004,2025-09-12,No,0,2.6,Builder,Sold,1350000.0,22,9,September,Budget,Unfurnished
+PK-0334,Islamabad,G-13,Plot,40.0,0,0,149000000,2011,2025-03-16,No,0,15.7,Dealer,Available,3725000.0,15,3,March,Luxury,Unfurnished
+PK-0335,Islamabad,F-10,House,20.0,7,7,101600000,2020,2026-01-29,Yes,3,2.6,Owner,Sold,5080000.0,6,1,January,Luxury,Furnished
+PK-0336,Karachi,Gulistan-e-Jauhar,House,7.0,3,3,31950000,2009,2025-09-26,No,1,13.4,Owner,Available,4564286.0,17,9,September,Premium,Unfurnished
+PK-0337,Faisalabad,Citi Housing,House,5.0,4,5,7900000,2014,2025-07-01,No,1,4.5,Owner,Available,1580000.0,12,7,July,Budget,Unfurnished
+PK-0338,Lahore,Bahria Town,House,10.0,5,5,51650000,2025,2026-02-05,Yes,2,4.8,Dealer,Available,5165000.0,1,2,February,Premium,Furnished
+PK-0339,Islamabad,Unknown,Plot,40.0,0,0,156050000,2003,2025-08-03,No,0,9.3,Builder,Sold,3901250.0,23,8,August,Luxury,Unfurnished
+PK-0340,Karachi,Gulistan-e-Jauhar,House,20.0,7,7,52050000,2009,2026-02-12,Yes,2,11.3,Owner,Available,2602500.0,17,2,February,Premium,Furnished
+PK-0341,Faisalabad,Citi Housing,House,10.0,3,3,14300000,2008,2025-02-01,No,1,12.0,Dealer,Available,1430000.0,18,2,February,Mid-range,Unfurnished
+PK-0342,Multan,Cantt,Plot,20.0,0,0,23750000,2003,2025-07-17,No,0,8.0,Builder,Sold,1187500.0,23,7,July,Mid-range,Unfurnished
+PK-0343,Islamabad,G-13,Flat,4.0,2,2,10500000,1995,2026-05-27,No,1,3.3,Dealer,Available,2625000.0,31,5,May,Mid-range,Unfurnished
+PK-0344,Faisalabad,Madina Town,House,5.0,3,4,6400000,2016,2025-01-21,Yes,2,4.9,Owner,Sold,1280000.0,10,1,January,Budget,Furnished
+PK-0345,Multan,Gulgasht Colony,Flat,3.0,2,2,2600000,2012,2025-07-05,No,1,11.7,Owner,Available,866667.0,14,7,July,Budget,Unfurnished
+PK-0346,Karachi,Clifton,Plot,20.0,0,0,67900000,1999,2026-04-07,No,0,5.6,Owner,Available,3395000.0,27,4,April,Premium,Unfurnished
+PK-0348,Faisalabad,Eden Gardens,House,5.0,4,5,8150000,2014,2025-07-01,Yes,2,4.5,Owner,Available,1630000.0,12,7,July,Budget,Furnished
+PK-0349,Lahore,Model Town,House,40.0,7,7,158850000,2001,2025-06-22,Yes,2,4.2,Owner,Sold,3971250.0,25,6,June,Luxury,Furnished
+PK-0350,Karachi,Gulshan-e-Iqbal,Plot,40.0,0,0,96000000,2018,2025-02-07,No,0,5.0,Owner,Available,2400000.0,8,2,February,Luxury,Unfurnished
+PK-0351,Lahore,DHA Phase 5,Flat,4.0,3,3,9600000,1993,2025-03-10,No,1,5.1,Owner,Pending,2400000.0,33,3,March,Budget,Unfurnished
+PK-0352,Multan,Cantt,House,5.0,4,5,8600000,2016,2025-07-06,Yes,3,4.6,Owner,Pending,1720000.0,10,7,July,Budget,Furnished
+PK-0353,Lahore,Wapda Town,Commercial,12.0,0,2,164800000,1991,2026-05-21,No,4,4.7,Owner,Sold,13733333.0,35,5,May,Luxury,Unfurnished
+PK-0354,Multan,DHA Multan,Commercial,8.0,0,2,17050000,2009,2025-03-26,No,1,4.2,Dealer,Sold,2131250.0,17,3,March,Mid-range,Unfurnished
+PK-0355,Karachi,Bahria Town Karachi,Plot,40.0,0,0,94050000,1990,2026-08-25,No,0,10.7,Owner,Available,2351250.0,36,8,August,Luxury,Unfurnished
+PK-0356,Lahore,DHA Phase 5,Flat,3.0,2,3,7750000,2019,2026-03-26,Yes,0,9.6,Owner,Pending,2583333.0,7,3,March,Budget,Furnished
+PK-0357,Multan,DHA Multan,House,10.0,3,4,14350000,2002,2025-07-14,No,2,7.8,Owner,Available,1435000.0,24,7,July,Mid-range,Unfurnished
+PK-0358,Lahore,Askari 10,House,7.0,2,2,14150000,1990,2026-08-22,No,2,9.3,Dealer,Sold,2021429.0,36,8,August,Mid-range,Unfurnished
+PK-0359,Lahore,DHA Phase 5,House,20.0,7,7,82250000,2014,2025-06-23,Yes,2,13.4,Owner,Available,4112500.0,12,6,June,Luxury,Furnished
+PK-0360,Lahore,Valencia Town,House,5.0,3,4,18100000,2000,2026-05-16,No,1,7.5,Builder,Sold,3620000.0,26,5,May,Mid-range,Unfurnished
+PK-0361,Lahore,Valencia Town,House,10.0,4,4,47450000,2017,2025-07-07,Yes,2,11.5,Owner,Available,4745000.0,9,7,July,Premium,Furnished
+PK-0362,Faisalabad,Citi Housing,House,3.0,2,3,6650000,1998,2026-01-06,No,2,3.6,Dealer,Sold,2216667.0,28,1,January,Budget,Unfurnished
+PK-0363,Lahore,Bahria Town,Plot,8.0,0,0,22550000,2002,2026-05-11,No,0,7.5,Builder,Available,2818750.0,24,5,May,Mid-range,Unfurnished
+PK-0364,Lahore,Valencia Town,House,5.0,3,3,15050000,1993,2026-01-21,No,1,4.2,Owner,Available,3010000.0,33,1,January,Mid-range,Unfurnished
+PK-0365,Karachi,PECHS,House,5.0,3,4,9000000,1991,2026-01-09,No,1,6.0,Owner,Pending,1800000.0,35,1,January,Budget,Unfurnished
+PK-0366,Lahore,Wapda Town,House,7.0,2,3,36750000,2021,2025-11-16,Yes,3,6.8,Dealer,Pending,5250000.0,5,11,November,Premium,Furnished
+PK-0367,Islamabad,Gulberg Greens,House,5.0,2,3,22500000,2016,2026-06-07,Yes,2,13.0,Owner,Available,4500000.0,10,6,June,Mid-range,Furnished
+PK-0368,Islamabad,Bahria Town Phase 7,House,3.0,2,3,15000000,2024,2025-10-07,Yes,3,1.9,Builder,Available,5000000.0,2,10,October,Mid-range,Furnished
+PK-0369,Islamabad,Bahria Town Phase 7,Flat,8.0,3,3,27600000,2016,2025-01-29,No,0,8.6,Builder,Available,3450000.0,10,1,January,Mid-range,Unfurnished
+PK-0370,Multan,Buch Villas,Flat,4.0,2,3,3050000,1990,2025-06-15,Yes,0,9.2,Dealer,Pending,762500.0,36,6,June,Budget,Furnished
+PK-0371,Karachi,Gulistan-e-Jauhar,Commercial,20.0,0,3,209850000,2024,2025-08-19,No,0,1.4,Dealer,Sold,10492500.0,2,8,August,Luxury,Unfurnished
+PK-0372,Lahore,Gulberg,House,7.0,5,4,15250000,1994,2025-02-22,Yes,3,14.1,Owner,Pending,2178571.0,32,2,February,Mid-range,Furnished
+PK-0373,Faisalabad,Canal Road,Plot,5.0,0,0,4650000,1992,2026-03-13,No,0,7.1,Builder,Sold,930000.0,34,3,March,Budget,Unfurnished
+PK-0374,Islamabad,F-10,Plot,20.0,0,0,67700000,2022,2025-12-13,No,0,7.2,Dealer,Available,3385000.0,4,12,December,Premium,Unfurnished
+PK-0375,Karachi,Bahria Town Karachi,House,7.0,4,5,16400000,2010,2025-11-19,Yes,3,7.4,Dealer,Available,2342857.0,16,11,November,Mid-range,Furnished
+PK-0376,Islamabad,I-8,House,5.0,4,5,23950000,2011,2026-06-22,No,3,3.6,Owner,Sold,4790000.0,15,6,June,Mid-range,Unfurnished
+PK-0377,Karachi,DHA Phase 6,Plot,8.0,0,0,28550000,2018,2025-08-23,No,0,5.6,Unknown,Sold,3568750.0,8,8,August,Mid-range,Unfurnished
+PK-0378,Karachi,DHA Phase 6,Flat,3.0,3,3,7300000,2000,2025-04-16,Yes,1,6.4,Owner,Pending,2433333.0,26,4,April,Budget,Furnished
+PK-0379,Faisalabad,Citi Housing,House,5.0,2,3,5700000,2009,2025-03-03,No,3,10.0,Builder,Available,1140000.0,17,3,March,Budget,Unfurnished
+PK-0380,Karachi,Scheme 33,Plot,5.0,0,0,9200000,2019,2026-06-22,No,0,1.7,Owner,Available,1840000.0,7,6,June,Budget,Unfurnished
+PK-0381,Lahore,Valencia Town,Flat,8.0,4,4,21250000,1997,2026-02-17,No,0,5.0,Dealer,Available,2656250.0,29,2,February,Mid-range,Unfurnished
+PK-0382,Lahore,Gulberg,Commercial,8.0,0,3,70800000,2012,2025-03-10,Yes,4,5.1,Owner,Pending,8850000.0,14,3,March,Luxury,Furnished
+PK-0383,Islamabad,DHA Phase 2,Plot,5.0,0,0,16150000,2016,2025-06-20,No,0,5.0,Dealer,Available,3230000.0,10,6,June,Mid-range,Unfurnished
+PK-0384,Islamabad,E-11,House,7.0,4,5,28450000,1997,2025-11-26,No,2,3.9,Dealer,Sold,4064286.0,29,11,November,Mid-range,Unfurnished
+PK-0385,Islamabad,B-17,House,10.0,4,5,44300000,2003,2025-03-16,No,1,8.3,Owner,Available,4430000.0,23,3,March,Premium,Unfurnished
+PK-0386,Karachi,PECHS,Flat,4.0,2,2,11100000,2003,2026-03-06,No,0,1.2,Dealer,Sold,2775000.0,23,3,March,Mid-range,Unfurnished
+PK-0387,Lahore,Bahria Town,Plot,10.0,0,0,32500000,2024,2026-02-19,No,0,13.2,Builder,Available,3250000.0,2,2,February,Premium,Unfurnished
+PK-0388,Lahore,Model Town,Plot,5.0,0,0,15350000,1999,2026-07-28,No,0,8.2,Owner,Sold,3070000.0,27,7,July,Mid-range,Unfurnished
+PK-0389,Islamabad,Unknown,Flat,3.0,1,2,15400000,2017,2025-03-13,No,0,13.2,Owner,Pending,5133333.0,9,3,March,Mid-range,Unfurnished
+PK-0390,Lahore,Valencia Town,Commercial,20.0,0,3,74250000,2010,2026-04-06,No,2,3.5,Dealer,Available,3712500.0,16,4,April,Luxury,Unfurnished
+PK-0391,Karachi,DHA Phase 6,House,10.0,4,5,22650000,2005,2025-08-16,No,3,8.9,Owner,Available,2265000.0,21,8,August,Mid-range,Unfurnished
+PK-0392,Lahore,Askari 10,House,10.0,4,5,34950000,2004,2025-07-30,Yes,2,10.6,Builder,Sold,3495000.0,22,7,July,Premium,Furnished
+PK-0393,Faisalabad,Millat Town,House,5.0,4,4,6350000,2004,2025-09-30,Yes,1,11.5,Owner,Available,1270000.0,22,9,September,Budget,Furnished
+PK-0394,Karachi,Clifton,Flat,2.0,2,3,4000000,2006,2025-12-17,No,0,1.8,Dealer,Sold,2000000.0,20,12,December,Budget,Unfurnished
+PK-0395,Faisalabad,Peoples Colony,Plot,10.0,0,0,14400000,2019,2025-01-20,No,0,6.5,Owner,Sold,1440000.0,7,1,January,Mid-range,Unfurnished
+PK-0396,Lahore,Bahria Town,House,3.0,2,2,12600000,2015,2026-09-05,No,1,6.5,Dealer,Available,4200000.0,11,9,September,Mid-range,Unfurnished
+PK-0397,Lahore,Gulberg,House,40.0,7,7,123250000,2019,2026-02-07,No,3,5.9,Owner,Sold,3081250.0,7,2,February,Luxury,Unfurnished
+PK-0398,Islamabad,F-10,House,5.0,2,3,21350000,2017,2026-04-19,No,3,2.9,Dealer,Sold,4270000.0,9,4,April,Mid-range,Unfurnished
+PK-0399,Karachi,Scheme 33,Plot,40.0,0,0,160000000,2021,2026-02-09,No,0,4.6,Dealer,Available,4000000.0,5,2,February,Luxury,Unfurnished
+PK-0400,Islamabad,I-8,House,10.0,4,4,30650000,2008,2025-01-24,No,2,11.0,Builder,Available,3065000.0,18,1,January,Premium,Unfurnished
+PK-0401,Islamabad,E-11,Plot,10.0,0,0,54250000,1993,2026-05-18,No,0,8.0,Owner,Sold,5425000.0,33,5,May,Premium,Unfurnished
+PK-0402,Karachi,Bahria Town Karachi,House,5.0,2,2,15650000,2012,2026-08-29,No,1,3.8,Owner,Pending,3130000.0,14,8,August,Mid-range,Unfurnished
+PK-0403,Karachi,Clifton,House,5.0,3,4,9800000,2006,2025-04-28,No,2,6.5,Owner,Pending,1960000.0,20,4,April,Budget,Unfurnished
+PK-0404,Karachi,Bahria Town Karachi,House,10.0,4,4,22650000,2010,2025-10-29,No,2,12.3,Dealer,Sold,2265000.0,16,10,October,Mid-range,Unfurnished
+PK-0405,Multan,Bosan Road,House,10.0,4,5,13400000,2003,2026-06-02,No,3,10.4,Dealer,Available,1340000.0,23,6,June,Mid-range,Unfurnished
+PK-0406,Lahore,Askari 10,Plot,5.0,0,0,16300000,1993,2025-04-05,No,0,3.0,Owner,Available,3260000.0,33,4,April,Mid-range,Unfurnished
+PK-0407,Islamabad,B-17,Flat,6.0,2,2,14500000,2005,2025-04-14,No,0,8.9,Owner,Available,2416667.0,21,4,April,Mid-range,Unfurnished
+PK-0408,Karachi,North Nazimabad,House,5.0,2,3,12150000,1990,2026-03-16,No,1,18.2,Owner,Available,2430000.0,36,3,March,Mid-range,Unfurnished
+PK-0409,Karachi,DHA Phase 6,House,5.0,2,3,10600000,1997,2026-01-12,No,3,25.7,Owner,Available,2120000.0,29,1,January,Mid-range,Unfurnished
+PK-0410,Lahore,Model Town,House,5.0,2,2,25300000,2010,2026-06-08,No,1,9.3,Dealer,Available,5060000.0,16,6,June,Mid-range,Unfurnished
+PK-0411,Islamabad,E-11,House,7.0,4,4,29450000,2015,2025-09-03,No,1,7.6,Builder,Available,4207143.0,11,9,September,Mid-range,Unfurnished
+PK-0412,Multan,Bosan Road,Flat,2.0,1,1,1950000,2014,2025-02-21,No,1,8.1,Owner,Pending,975000.0,12,2,February,Budget,Unfurnished
+PK-0413,Islamabad,B-17,Flat,6.0,2,2,13000000,1995,2026-07-08,Yes,0,17.7,Owner,Available,2166667.0,31,7,July,Mid-range,Furnished
+PK-0414,Multan,Bosan Road,House,7.0,4,5,9300000,2010,2025-11-11,No,2,7.6,Dealer,Available,1328571.0,16,11,November,Budget,Unfurnished
+PK-0415,Lahore,Gulberg,Flat,3.0,1,2,5200000,2006,2026-01-07,No,1,7.7,Owner,Available,1733333.0,20,1,January,Budget,Unfurnished
+PK-0416,Lahore,DHA Phase 5,House,5.0,2,3,25250000,2003,2025-01-16,Yes,1,6.5,Dealer,Available,5050000.0,23,1,January,Mid-range,Furnished
+PK-0417,Lahore,Model Town,House,7.0,4,4,29250000,2025,2026-09-03,No,3,7.8,Dealer,Available,4178571.0,1,9,September,Mid-range,Unfurnished
+PK-0418,Lahore,Model Town,House,5.0,2,3,17000000,2025,2026-09-08,No,1,0.9,Builder,Available,3400000.0,1,9,September,Mid-range,Unfurnished
+PK-0419,Multan,Gulgasht Colony,Flat,2.0,1,1,1900000,2013,2026-09-30,No,0,6.2,Owner,Available,950000.0,13,9,September,Budget,Unfurnished
+PK-0420,Faisalabad,Millat Town,Plot,20.0,0,0,16000000,2012,2026-07-21,No,0,19.1,Owner,Available,800000.0,14,7,July,Mid-range,Unfurnished
+PK-0421,Multan,Model Town Multan,Flat,3.0,1,2,4100000,1996,2025-01-12,No,1,6.5,Owner,Sold,1366667.0,30,1,January,Budget,Unfurnished
+PK-0422,Multan,DHA Multan,House,40.0,7,7,51050000,2010,2025-03-25,No,3,5.3,Owner,Sold,1276250.0,16,3,March,Premium,Unfurnished
+PK-0423,Karachi,Gulistan-e-Jauhar,House,5.0,2,3,14450000,2009,2025-04-11,Yes,2,4.0,Owner,Sold,2890000.0,17,4,April,Mid-range,Furnished
+PK-0424,Lahore,Askari 10,Flat,3.0,2,3,9150000,2014,2026-07-11,No,0,6.1,Builder,Sold,3050000.0,12,7,July,Budget,Unfurnished
+PK-0425,Faisalabad,Eden Gardens,Flat,3.0,2,3,3800000,1992,2025-08-15,Yes,1,11.6,Dealer,Available,1266667.0,34,8,August,Budget,Furnished
+PK-0426,Faisalabad,Citi Housing,Commercial,4.0,0,4,7100000,1990,2026-08-04,No,0,8.9,Owner,Available,1775000.0,36,8,August,Budget,Unfurnished
+PK-0427,Lahore,Gulberg,Flat,6.0,3,3,16750000,1998,2025-10-20,No,1,6.1,Owner,Available,2791667.0,28,10,October,Mid-range,Unfurnished
+PK-0428,Multan,Wapda Town Multan,Plot,10.0,0,0,6300000,2021,2026-03-05,No,0,8.7,Builder,Sold,630000.0,5,3,March,Budget,Unfurnished
+PK-0429,Karachi,Gulshan-e-Iqbal,Plot,5.0,0,0,7200000,2002,2025-06-23,No,0,8.4,Dealer,Available,1440000.0,24,6,June,Budget,Unfurnished
+PK-0430,Multan,Buch Villas,Plot,40.0,0,0,61900000,1998,2026-05-11,No,0,6.5,Dealer,Sold,1547500.0,28,5,May,Premium,Unfurnished
+PK-0431,Multan,Buch Villas,Flat,4.0,2,3,4050000,2023,2026-06-07,No,1,12.3,Dealer,Sold,1012500.0,3,6,June,Budget,Unfurnished
+PK-0432,Islamabad,DHA Phase 2,House,5.0,3,4,21100000,2009,2026-05-30,Yes,3,9.2,Owner,Available,4220000.0,17,5,May,Mid-range,Furnished
+PK-0433,Lahore,Valencia Town,Flat,3.0,1,2,7850000,1993,2025-03-20,No,1,5.9,Owner,Available,2616667.0,33,3,March,Budget,Unfurnished
+PK-0434,Multan,DHA Multan,Flat,4.0,2,2,5850000,1995,2026-04-25,Yes,1,5.6,Owner,Pending,1462500.0,31,4,April,Budget,Furnished
+PK-0435,Multan,Buch Villas,Flat,3.0,2,3,3900000,2012,2025-10-16,Yes,0,8.1,Owner,Available,1300000.0,14,10,October,Budget,Furnished
+PK-0436,Islamabad,G-13,House,3.0,2,3,12600000,2006,2025-07-05,No,2,5.6,Owner,Sold,4200000.0,20,7,July,Mid-range,Unfurnished
+PK-0437,Faisalabad,Eden Gardens,Plot,5.0,0,0,7850000,2006,2025-04-25,No,0,3.5,Builder,Available,1570000.0,20,4,April,Budget,Unfurnished
+PK-0438,Multan,DHA Multan,House,7.0,3,3,11850000,2021,2026-07-10,Yes,2,7.1,Owner,Pending,1692857.0,5,7,July,Mid-range,Furnished
+PK-0439,Lahore,DHA Phase 5,Commercial,2.0,0,3,10400000,2021,2025-01-09,Yes,1,1.7,Dealer,Available,5200000.0,5,1,January,Mid-range,Furnished
+PK-0440,Islamabad,Bahria Town Phase 7,Commercial,4.0,0,3,31750000,2000,2025-06-21,No,2,10.5,Dealer,Available,7937500.0,26,6,June,Premium,Unfurnished
+PK-0441,Multan,Gulgasht Colony,House,20.0,7,7,28450000,2006,2026-03-30,Yes,2,1.3,Dealer,Available,1422500.0,20,3,March,Mid-range,Furnished
+PK-0442,Lahore,Model Town,House,20.0,6,7,66000000,2009,2025-09-16,No,2,6.0,Dealer,Available,3300000.0,17,9,September,Premium,Unfurnished
+PK-0443,Multan,Gulgasht Colony,House,10.0,5,6,22000000,2017,2025-01-02,No,2,9.6,Dealer,Available,2200000.0,9,1,January,Mid-range,Unfurnished
+PK-0444,Karachi,DHA Phase 6,Commercial,12.0,0,4,75200000,2013,2026-03-31,Yes,0,5.0,Owner,Available,6266667.0,13,3,March,Luxury,Furnished
+PK-0445,Karachi,Gulistan-e-Jauhar,House,7.0,3,4,24350000,2000,2025-11-01,No,1,2.6,Dealer,Sold,3478571.0,26,11,November,Mid-range,Unfurnished
+PK-0446,Lahore,Valencia Town,House,10.0,4,4,42050000,2004,2026-09-04,No,3,1.3,Owner,Sold,4205000.0,22,9,September,Premium,Unfurnished
+PK-0447,Multan,Shah Rukn-e-Alam Colony,House,7.0,4,5,5250000,2006,2026-06-12,Yes,2,15.0,Owner,Sold,750000.0,20,6,June,Budget,Furnished
+PK-0448,Karachi,Clifton,House,20.0,6,7,49300000,2004,2025-08-04,No,3,5.0,Builder,Available,2465000.0,22,8,August,Premium,Unfurnished
+PK-0449,Islamabad,Bahria Town Phase 7,House,40.0,7,4,117500000,1994,2026-01-06,No,3,2.7,Owner,Pending,2937500.0,32,1,January,Luxury,Unfurnished
+PK-0450,Lahore,Askari 10,Plot,5.0,0,0,15900000,2021,2026-08-12,No,0,6.6,Owner,Available,3180000.0,5,8,August,Mid-range,Unfurnished
+PK-0451,Karachi,Bahria Town Karachi,House,5.0,3,4,11550000,1999,2026-06-24,Yes,1,7.0,Owner,Available,2310000.0,27,6,June,Mid-range,Furnished
+PK-0452,Islamabad,G-13,Plot,20.0,0,0,64500000,2000,2026-08-02,No,0,3.0,Builder,Available,3225000.0,26,8,August,Premium,Unfurnished
+PK-0453,Karachi,DHA Phase 6,Flat,6.0,3,4,17300000,2013,2026-08-19,No,1,2.1,Owner,Sold,2883333.0,13,8,August,Mid-range,Unfurnished
+PK-0454,Multan,Buch Villas,House,10.0,4,4,11500000,2009,2025-08-22,Yes,3,3.9,Owner,Sold,1150000.0,17,8,August,Mid-range,Furnished
+PK-0456,Islamabad,B-17,House,20.0,6,6,84200000,1994,2025-03-20,No,1,4.6,Owner,Sold,4210000.0,32,3,March,Luxury,Unfurnished
+PK-0457,Multan,Buch Villas,House,40.0,7,7,96350000,2001,2025-08-02,No,3,4.6,Builder,Available,2408750.0,25,8,August,Luxury,Unfurnished
+PK-0458,Lahore,Unknown,Commercial,12.0,0,4,74150000,2001,2025-11-25,Yes,0,12.0,Owner,Available,6179167.0,25,11,November,Luxury,Furnished
+PK-0460,Islamabad,Gulberg Greens,House,5.0,3,4,19150000,2014,2025-07-29,Yes,2,3.5,Dealer,Available,3830000.0,12,7,July,Mid-range,Furnished
+PK-0461,Islamabad,Gulberg Greens,House,5.0,4,4,26850000,1991,2025-08-21,No,2,2.6,Dealer,Sold,5370000.0,35,8,August,Mid-range,Unfurnished
+PK-0462,Lahore,Wapda Town,Flat,2.0,1,2,5800000,1994,2025-01-29,No,0,4.2,Owner,Available,2900000.0,32,1,January,Budget,Unfurnished
+PK-0463,Karachi,Gulshan-e-Iqbal,Flat,4.0,1,1,7600000,1999,2026-08-04,No,0,5.0,Dealer,Available,1900000.0,27,8,August,Budget,Unfurnished
+PK-0464,Karachi,Clifton,Flat,4.0,1,1,9350000,2021,2025-02-26,No,1,13.0,Dealer,Pending,2337500.0,5,2,February,Budget,Unfurnished
+PK-0465,Islamabad,E-11,House,7.0,3,4,34450000,2011,2025-05-29,Yes,2,9.5,Dealer,Pending,4921429.0,15,5,May,Premium,Furnished
+PK-0466,Faisalabad,Madina Town,Flat,4.0,2,3,3900000,2009,2025-08-03,No,0,3.3,Dealer,Sold,975000.0,17,8,August,Budget,Unfurnished
+PK-0467,Lahore,Johar Town,House,5.0,2,4,19100000,2002,2025-06-06,No,1,7.8,Dealer,Sold,3820000.0,24,6,June,Mid-range,Unfurnished
+PK-0468,Multan,Cantt,Flat,2.0,2,2,2150000,2001,2026-08-24,No,0,9.3,Owner,Available,1075000.0,25,8,August,Budget,Unfurnished
+PK-0469,Lahore,Gulberg,House,20.0,6,7,79650000,2015,2026-01-30,No,1,16.0,Dealer,Pending,3982500.0,11,1,January,Luxury,Unfurnished
+PK-0470,Karachi,North Nazimabad,House,7.0,4,5,26300000,2025,2025-05-30,No,3,10.9,Dealer,Sold,3757143.0,1,5,May,Mid-range,Unfurnished
+PK-0471,Faisalabad,Jinnah Colony,Plot,10.0,0,0,19050000,1991,2025-02-27,No,0,24.3,Unknown,Available,1905000.0,35,2,February,Mid-range,Unfurnished
+PK-0472,Karachi,DHA Phase 6,House,10.0,5,6,21950000,2020,2025-09-01,No,1,13.3,Builder,Available,2195000.0,6,9,September,Mid-range,Unfurnished
+PK-0473,Multan,Wapda Town Multan,Flat,3.0,1,1,3400000,2004,2026-04-05,No,1,7.4,Builder,Available,1133333.0,22,4,April,Budget,Unfurnished
+PK-0474,Faisalabad,Jinnah Colony,House,7.0,3,3,10350000,2012,2026-08-27,Yes,3,15.3,Owner,Pending,1478571.0,14,8,August,Mid-range,Furnished
+PK-0475,Karachi,Gulshan-e-Iqbal,Flat,4.0,2,3,7950000,1999,2025-10-18,No,0,9.1,Owner,Sold,1987500.0,27,10,October,Budget,Unfurnished
+PK-0476,Islamabad,Gulberg Greens,House,5.0,3,4,21050000,2007,2025-10-15,No,1,5.6,Owner,Sold,4210000.0,19,10,October,Mid-range,Unfurnished
+PK-0477,Karachi,PECHS,Flat,4.0,2,3,9300000,2002,2025-10-06,Yes,1,11.0,Owner,Available,2325000.0,24,10,October,Budget,Furnished
+PK-0478,Islamabad,DHA Phase 2,Flat,6.0,3,3,20000000,2002,2025-09-24,Yes,1,12.5,Owner,Available,3333333.0,24,9,September,Mid-range,Furnished
+PK-0479,Faisalabad,Canal Road,Flat,4.0,1,2,8400000,2022,2026-05-23,Yes,1,8.7,Owner,Sold,2100000.0,4,5,May,Budget,Furnished
+PK-0480,Lahore,Johar Town,House,20.0,7,7,65650000,1997,2026-02-26,Yes,1,15.2,Dealer,Sold,3282500.0,29,2,February,Premium,Furnished
+PK-0481,Karachi,North Nazimabad,House,5.0,3,3,13350000,2020,2025-06-18,No,2,2.3,Dealer,Available,2670000.0,6,6,June,Mid-range,Unfurnished
+PK-0482,Lahore,DHA Phase 5,Flat,4.0,3,2,12450000,2000,2026-07-12,Yes,0,1.4,Owner,Available,3112500.0,26,7,July,Mid-range,Furnished
+PK-0483,Islamabad,G-13,House,7.0,5,6,21000000,1998,2025-11-22,No,3,12.0,Dealer,Available,3000000.0,28,11,November,Mid-range,Unfurnished
+PK-0484,Lahore,Askari 10,Plot,10.0,0,0,22400000,2015,2026-04-29,No,0,3.7,Owner,Available,2240000.0,11,4,April,Mid-range,Unfurnished
+PK-0485,Lahore,Gulberg,House,7.0,3,4,16050000,1999,2026-08-15,No,3,18.4,Owner,Available,2292857.0,27,8,August,Mid-range,Unfurnished
+PK-0486,Islamabad,G-13,Flat,2.0,1,1,7050000,2011,2025-03-12,No,0,1.3,Dealer,Sold,3525000.0,15,3,March,Budget,Unfurnished
+PK-0487,Lahore,Gulberg,Commercial,12.0,0,4,64900000,2006,2026-04-28,No,1,3.5,Dealer,Sold,5408333.0,20,4,April,Premium,Unfurnished
+PK-0488,Karachi,Scheme 33,Commercial,2.0,0,2,7600000,2010,2026-05-31,No,1,4.7,Dealer,Available,3800000.0,16,5,May,Budget,Unfurnished
+PK-0489,Islamabad,F-10,Flat,8.0,3,4,18400000,2021,2025-01-29,Yes,1,13.9,Dealer,Available,2300000.0,5,1,January,Mid-range,Furnished
+PK-0490,Karachi,Bahria Town Karachi,Flat,2.0,2,3,4000000,2003,2025-06-20,Yes,0,1.6,Builder,Available,2000000.0,23,6,June,Budget,Furnished
+PK-0491,Multan,Unknown,House,20.0,7,7,28450000,2012,2025-10-02,Yes,1,13.1,Builder,Available,1422500.0,14,10,October,Mid-range,Furnished
+PK-0493,Islamabad,Gulberg Greens,House,20.0,7,7,77850000,2005,2026-09-24,Yes,3,5.3,Owner,Sold,3892500.0,21,9,September,Luxury,Furnished
+PK-0494,Karachi,Scheme 33,Flat,3.0,1,1,7750000,2007,2026-09-07,No,1,10.0,Dealer,Available,2583333.0,19,9,September,Budget,Unfurnished
+PK-0495,Lahore,Valencia Town,House,20.0,6,7,77500000,2012,2026-01-28,No,2,3.4,Unknown,Pending,3875000.0,14,1,January,Luxury,Unfurnished
+PK-0496,Karachi,Gulshan-e-Iqbal,House,10.0,5,6,42000000,2015,2026-07-12,No,2,5.2,Owner,Sold,4200000.0,11,7,July,Premium,Unfurnished
+PK-0497,Faisalabad,Canal Road,Flat,8.0,4,4,12750000,1997,2025-05-10,No,0,2.2,Dealer,Sold,1593750.0,29,5,May,Mid-range,Unfurnished
+PK-0498,Karachi,Gulistan-e-Jauhar,Commercial,8.0,0,4,39350000,2024,2025-06-07,No,1,5.1,Dealer,Sold,4918750.0,2,6,June,Premium,Unfurnished
+PK-0499,Islamabad,E-11,House,10.0,4,4,30700000,2002,2026-04-08,Yes,1,7.8,Dealer,Sold,3070000.0,24,4,April,Premium,Furnished
+PK-0500,Karachi,Bahria Town Karachi,House,10.0,4,5,28250000,2002,2025-12-20,Yes,2,12.5,Owner,Sold,2825000.0,24,12,December,Mid-range,Furnished

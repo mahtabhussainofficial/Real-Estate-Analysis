@@ -1,0 +1,501 @@
+property_id,city,area_name,property_type,area_marla,bedrooms,bathrooms,price_pkr,year_built,listing_date,furnished,parking_spaces,distance_to_city_center_km,owner_type,status
+PK-0001,Islamabad,DHA Phase 2,House,10.0,4.0,5.0,65900000.0,2001,2026-09-05,No,3.0,6.6,Dealer,Available
+PK-0002,Faisalabad,Eden Gardens,Commercial,8.0,0.0,2.0,22500000.0,2010,2025-06-21,No,1.0,3.4,Dealer,Pending
+PK-0003,Lahore,Wapda Town,Commercial,8.0,0.0,1.0,,1992,2025-09-29,No,0.0,16.9,Dealer,Available
+PK-0004,Lahore,Model Town,House,20.0,6.0,7.0,66650000.0,1999,2026-03-01,Yes,3.0,4.1,Owner,Sold
+PK-0005,Multan,Bosan Road,House,5.0,3.0,3.0,5300000.0,1991,2025-04-10,Yes,2.0,5.3,Owner,Available
+PK-0006,Karachi,Gulshan-e-Iqbal,House,40.0,7.0,7.0,154600000.0,1991,2025-08-25,No,2.0,1.6,Owner,Available
+PK-0007,Lahore,Valencia Town,Flat,3.0,2.0,2.0,8750000.0,1992,2026-06-08,Yes,1.0,2.1,Owner,Available
+PK-0008,Lahore,Askari 10,Plot,8.0,0.0,0.0,17700000.0,2024,2026-07-06,No,0.0,13.1,Owner,Available
+PK-0009,Lahore,Valencia Town,House,7.0,3.0,3.0,23350000.0,2007,2025-10-27,Yes,2.0,5.8,Builder,Available
+PK-0010,Faisalabad,Eden Gardens,House,7.0,3.0,3.0,10000000.0,2010,2025-05-03,No,2.0,13.0,Owner,Sold
+PK-0011,Islamabad,G-13,Flat,4.0,2.0,3.0,12300000.0,2009,2025-03-10,No,1.0,5.1,Owner,Available
+PK-0012,Karachi,DHA Phase 6,House,10.0,4.0,4.0,21750000.0,2002,2026-08-29,Yes,2.0,10.7,Dealer,Pending
+PK-0013,Karachi,Gulshan-e-Iqbal,House,20.0,6.0,6.0,62000000.0,2010,2026-03-18,No,2.0,5.2,Owner,Available
+PK-0014,Karachi,Clifton,House,3.0,3.0,3.0,9950000.0,2004,2026-01-18,Yes,2.0,9.6,Dealer,Sold
+PK-0015,Lahore,Model Town,House,5.0,3.0,3.0,17950000.0,2009,2026-01-18,Yes,1.0,3.0,Dealer,Sold
+PK-0016,Faisalabad,Canal Road,House,10.0,3.0,3.0,11200000.0,2001,2025-04-13,No,3.0,4.7,Dealer,Sold
+PK-0017,Lahore,Wapda Town,Flat,3.0,2.0,3.0,9600000.0,1997,2026-07-16,No,1.0,6.3,Dealer,Available
+PK-0018,Islamabad,Gulberg Greens,Flat,4.0,2.0,2.0,7450000.0,2003,2026-09-18,Yes,0.0,14.4,,Available
+PK-0019,Karachi,DHA Phase 6,Plot,10.0,0.0,0.0,17250000.0,2020,2026-05-13,No,0.0,12.4,Dealer,Sold
+PK-0020,Multan,DHA Multan,Flat,3.0,1.0,1.0,4150000.0,1994,2025-01-24,No,0.0,2.9,Builder,Pending
+PK-0021,Karachi,North Nazimabad,Flat,4.0,2.0,3.0,4750000.0,2002,2025-03-08,Yes,1.0,8.8,Owner,Available
+PK-0022,Islamabad,E-11,Flat,3.0,2.0,2.0,6150000.0,1996,2026-01-31,No,1.0,3.8,Owner,Available
+PK-0023,Multan,Shah Rukn-e-Alam Colony,House,40.0,7.0,7.0,58800000.0,2002,2025-09-12,Yes,2.0,5.5,Builder,Sold
+PK-0024,Lahore,Valencia Town,Plot,5.0,0.0,0.0,15150000.0,2005,2025-03-14,No,0.0,9.6,Dealer,Available
+PK-0025,Faisalabad,Madina Town,Plot,20.0,0.0,0.0,23700000.0,2014,2025-02-16,No,0.0,4.6,Dealer,Available
+PK-0026,Islamabad,I-8,Flat,6.0,2.0,3.0,25100000.0,2006,2025-03-19,No,0.0,5.5,Owner,Available
+PK-0027,Karachi,Scheme 33,Plot,20.0,0.0,0.0,33200000.0,1997,2026-05-13,No,0.0,13.0,Owner,Pending
+PK-0028,Islamabad,F-10,House,10.0,3.0,4.0,,2005,2025-05-19,No,1.0,10.8,Owner,Available
+PK-0029,Islamabad,Bahria Town Phase 7,Flat,3.0,3.0,3.0,6200000.0,2002,2026-06-07,Yes,0.0,2.2,Owner,Available
+PK-0030,Lahore,Gulberg,Flat,4.0,2.0,3.0,7750000.0,2006,2025-11-07,No,1.0,8.6,Owner,Available
+PK-0031,Multan,Shah Rukn-e-Alam Colony,Flat,3.0,1.0,2.0,5750000.0,2011,2025-05-21,Yes,1.0,9.4,Owner,Sold
+PK-0032,Faisalabad,Madina Town,Flat,2.0,1.0,2.0,1950000.0,2008,2025-08-15,No,0.0,13.6,Dealer,Available
+PK-0033,Lahore,DHA Phase 5,House,3.0,3.0,,11850000.0,2020,2025-05-10,No,2.0,2.8,Owner,Available
+PK-0034,Lahore,DHA Phase 5,House,7.0,2.0,2.0,29750000.0,2021,2026-06-05,Yes,1.0,5.7,,Sold
+PK-0035,Islamabad,Bahria Town Phase 7,House,5.0,2.0,2.0,15150000.0,2002,2026-01-24,No,3.0,8.4,Owner,Sold
+PK-0036,Lahore,Model Town,Plot,20.0,0.0,0.0,48600000.0,2017,2025-03-01,No,0.0,4.3,Owner,Available
+PK-0037,Lahore,Bahria Town,House,5.0,3.0,4.0,20350000.0,1995,2025-04-19,Yes,1.0,4.9,Dealer,Available
+PK-0038,Faisalabad,Madina Town,Flat,3.0,1.0,1.0,5150000.0,2007,2026-04-16,No,0.0,17.3,Dealer,Available
+PK-0039,Lahore,Gulberg,House,3.0,2.0,2.0,8150000.0,2024,2026-02-10,Yes,2.0,15.9,Dealer,Sold
+PK-0040,Karachi,Clifton,Plot,5.0,0.0,0.0,10550000.0,2014,2026-05-30,No,0.0,3.6,Dealer,Sold
+PK-0041,Islamabad,Bahria Town Phase 7,House,20.0,7.0,7.0,113950000.0,2023,2025-03-07,No,2.0,2.9,Dealer,Sold
+PK-0042,Islamabad,E-11,House,5.0,2.0,3.0,26850000.0,2004,2025-11-09,Yes,2.0,3.8,Owner,Available
+PK-0043,Multan,DHA Multan,House,20.0,6.0,7.0,,2007,2026-07-09,No,3.0,0.5,Owner,Sold
+PK-0044,Islamabad,Gulberg Greens,Plot,40.0,0.0,0.0,167950000.0,2011,2026-02-07,No,0.0,3.5,Dealer,Available
+PK-0045,Multan,Cantt,House,20.0,7.0,,32800000.0,2025,2025-04-12,Yes,3.0,5.1,Dealer,Available
+PK-0046,Lahore,Gulberg,House,3.0,2.0,3.0,7600000.0,1999,2025-05-10,No,1.0,,Dealer,Available
+PK-0047,Karachi,Bahria Town Karachi,House,3.0,2.0,3.0,7950000.0,2018,2025-09-27,Yes,3.0,5.6,Dealer,Sold
+PK-0048,Multan,DHA Multan,Commercial,4.0,0.0,2.0,9900000.0,2020,2026-03-09,No,1.0,5.3,Builder,Available
+PK-0049,Karachi,North Nazimabad,Flat,6.0,3.0,3.0,7000000.0,2017,2025-12-04,No,0.0,16.2,Owner,Available
+PK-0050,Karachi,Scheme 33,Plot,5.0,0.0,0.0,14800000.0,2024,2025-12-01,No,0.0,5.5,Owner,Available
+PK-0051,Lahore,Wapda Town,House,3.0,3.0,4.0,11600000.0,2000,2026-03-21,No,1.0,16.2,Dealer,Pending
+PK-0052,Multan,DHA Multan,House,7.0,,2.0,9900000.0,2020,2026-03-19,Yes,2.0,9.0,Owner,Sold
+PK-0053,Lahore,Model Town,Flat,4.0,3.0,4.0,14100000.0,2019,2025-08-17,No,0.0,3.7,Dealer,Sold
+PK-0054,Karachi,Gulshan-e-Iqbal,Plot,20.0,0.0,,45050000.0,2012,2026-05-17,No,0.0,7.9,Dealer,Sold
+PK-0055,Islamabad,E-11,Plot,40.0,0.0,,188950000.0,2004,2025-05-01,No,0.0,5.6,Owner,Available
+PK-0056,Multan,Wapda Town Multan,Flat,4.0,1.0,2.0,4250000.0,2023,2026-06-26,Yes,1.0,11.6,Owner,Pending
+PK-0057,Lahore,Valencia Town,House,3.0,2.0,3.0,9250000.0,1992,2026-07-05,Yes,2.0,10.4,Dealer,Available
+PK-0058,Karachi,Gulistan-e-Jauhar,Plot,10.0,0.0,0.0,19950000.0,2020,2025-05-23,No,0.0,19.8,Dealer,Sold
+PK-0059,Islamabad,G-13,Flat,4.0,2.0,2.0,11300000.0,2005,2025-05-10,Yes,1.0,14.7,Dealer,Available
+PK-0060,Karachi,Gulshan-e-Iqbal,Flat,8.0,3.0,3.0,16850000.0,2011,2025-12-18,No,1.0,9.1,Owner,Sold
+PK-0061,Karachi,PECHS,Plot,10.0,0.0,0.0,18700000.0,2024,2025-08-25,No,0.0,12.0,Dealer,Sold
+PK-0062,Lahore,DHA Phase 5,Flat,3.0,2.0,3.0,10850000.0,2004,2026-08-29,Yes,0.0,0.8,Builder,Pending
+PK-0063,Lahore,Model Town,House,5.0,4.0,,18700000.0,2012,2025-08-02,No,1.0,3.5,Dealer,Available
+PK-0064,Islamabad,E-11,Flat,4.0,2.0,2.0,12400000.0,1995,2025-08-31,Yes,1.0,3.2,Owner,Sold
+PK-0065,Lahore,Valencia Town,Plot,20.0,0.0,0.0,54800000.0,2008,2026-09-14,No,0.0,11.8,Owner,Available
+PK-0066,Karachi,North Nazimabad,Plot,20.0,,0.0,35700000.0,1994,2025-11-09,No,0.0,4.6,Owner,Pending
+PK-0067,Islamabad,B-17,House,5.0,3.0,4.0,19950000.0,2004,2026-02-17,Yes,3.0,4.2,Builder,Available
+PK-0068,Karachi,Gulistan-e-Jauhar,Flat,4.0,2.0,2.0,14050000.0,2008,2025-08-24,No,0.0,4.2,Builder,Available
+PK-0069,Islamabad,B-17,Flat,4.0,3.0,3.0,,1997,2025-12-28,No,1.0,1.6,Owner,Sold
+PK-0070,Karachi,North Nazimabad,Flat,4.0,3.0,3.0,10800000.0,2012,2025-07-17,Yes,0.0,5.6,Owner,Available
+PK-0071,Islamabad,I-8,Commercial,8.0,0.0,2.0,48300000.0,2022,2026-04-11,Yes,3.0,8.3,Dealer,Available
+PK-0072,Karachi,Gulshan-e-Iqbal,Commercial,8.0,0.0,2.0,34650000.0,2015,2025-06-02,Yes,0.0,10.8,Owner,Sold
+PK-0073,Islamabad,I-8,House,7.0,4.0,5.0,25450000.0,2007,2026-01-24,Yes,1.0,18.2,Owner,Pending
+PK-0074,Lahore,Model Town,Commercial,2.0,0.0,1.0,11400000.0,2008,2025-01-13,No,0.0,4.7,Builder,Available
+PK-0075,Lahore,Gulberg,House,20.0,7.0,7.0,41200000.0,2006,2026-04-16,No,3.0,8.3,Dealer,Available
+PK-0076,Islamabad,E-11,Commercial,2.0,,3.0,9550000.0,1998,2025-06-10,Yes,,7.4,Dealer,Available
+PK-0077,Karachi,PECHS,Plot,5.0,0.0,0.0,11100000.0,2012,2025-12-09,No,,1.5,,Available
+PK-0078,Multan,Shah Rukn-e-Alam Colony,House,3.0,3.0,3.0,6350000.0,2016,2025-11-07,Yes,1.0,5.8,Dealer,Available
+PK-0079,Karachi,,Flat,3.0,2.0,3.0,9150000.0,2005,2026-03-15,No,1.0,2.8,Dealer,Sold
+PK-0080,Karachi,Bahria Town Karachi,House,5.0,3.0,4.0,23750000.0,2024,2025-01-21,No,1.0,5.5,Builder,Available
+PK-0081,Multan,DHA Multan,Flat,6.0,3.0,3.0,6150000.0,2019,2025-08-04,No,1.0,25.6,Owner,Sold
+PK-0082,Karachi,Gulistan-e-Jauhar,Commercial,20.0,0.0,4.0,68800000.0,1993,2025-04-16,No,3.0,5.0,Dealer,Available
+PK-0083,Islamabad,DHA Phase 2,Plot,10.0,0.0,0.0,57350000.0,2014,2025-09-17,No,0.0,12.6,Dealer,Sold
+PK-0084,Karachi,DHA Phase 6,House,20.0,7.0,7.0,63400000.0,2017,2025-09-08,No,2.0,3.1,Dealer,Available
+PK-0085,Islamabad,G-13,Flat,4.0,2.0,2.0,11850000.0,2010,2026-06-11,No,0.0,14.0,Builder,Sold
+PK-0086,Lahore,Model Town,House,7.0,3.0,4.0,24350000.0,2003,2026-02-01,No,1.0,11.5,Owner,Available
+PK-0087,Karachi,Bahria Town Karachi,Commercial,2.0,0.0,4.0,6850000.0,1990,2025-05-11,No,3.0,3.6,Owner,Available
+PK-0088,Islamabad,G-13,House,7.0,3.0,4.0,26500000.0,2010,2026-09-20,Yes,3.0,,Owner,Available
+PK-0089,Lahore,Gulberg,Commercial,4.0,0.0,1.0,20300000.0,2016,2026-07-05,No,3.0,10.6,Owner,Available
+PK-0090,Islamabad,B-17,House,20.0,7.0,,90300000.0,2006,2025-12-07,No,2.0,1.9,Builder,Available
+PK-0091,Islamabad,E-11,Plot,10.0,0.0,0.0,21750000.0,2024,2025-05-14,No,0.0,7.2,,Sold
+PK-0092,Lahore,Wapda Town,House,7.0,,4.0,25650000.0,2024,2026-01-07,Yes,1.0,13.0,Owner,Available
+PK-0093,Karachi,DHA Phase 6,Flat,2.0,1.0,1.0,5400000.0,2020,2026-06-30,No,1.0,5.4,Dealer,Available
+PK-0094,Multan,Bosan Road,House,20.0,6.0,7.0,30350000.0,1995,2025-07-27,No,2.0,4.1,Owner,Pending
+PK-0095,Faisalabad,Peoples Colony,House,7.0,3.0,4.0,8650000.0,2000,2026-01-31,No,2.0,14.2,Dealer,Sold
+PK-0096,Lahore,Valencia Town,House,20.0,6.0,7.0,44900000.0,2008,2026-08-28,No,2.0,8.1,Owner,Sold
+PK-0097,Islamabad,Bahria Town Phase 7,Commercial,2.0,0.0,2.0,17800000.0,2011,2025-10-13,No,0.0,5.3,Owner,Pending
+PK-0098,Islamabad,DHA Phase 2,Flat,2.0,2.0,2.0,6700000.0,2012,2025-01-31,No,0.0,5.2,Dealer,Available
+PK-0099,Islamabad,G-13,Flat,4.0,,2.0,11350000.0,2019,2026-09-11,No,0.0,2.7,Dealer,Available
+PK-0100,Lahore,DHA Phase 5,Flat,2.0,2.0,2.0,5100000.0,1992,2025-01-29,No,0.0,5.4,Dealer,Sold
+PK-0101,Faisalabad,Eden Gardens,House,10.0,4.0,4.0,18650000.0,2014,2025-08-19,No,1.0,4.3,Dealer,Available
+PK-0102,Lahore,Valencia Town,Flat,2.0,1.0,2.0,,2001,2026-02-19,No,1.0,5.0,Dealer,Available
+PK-0103,Karachi,DHA Phase 6,House,20.0,7.0,,31650000.0,2004,2026-01-25,No,1.0,8.2,Owner,Available
+PK-0104,Islamabad,DHA Phase 2,House,3.0,3.0,3.0,10450000.0,2010,2025-11-21,No,1.0,10.5,Dealer,Available
+PK-0105,Lahore,Valencia Town,House,10.0,4.0,5.0,43000000.0,2008,2026-03-29,No,2.0,10.2,Owner,Sold
+PK-0106,Lahore,Bahria Town,Plot,5.0,0.0,0.0,14250000.0,2017,2025-04-24,No,0.0,4.1,Dealer,Available
+PK-0107,Karachi,Clifton,Commercial,4.0,0.0,4.0,15700000.0,2000,2025-03-10,No,2.0,6.0,Dealer,Pending
+PK-0108,Islamabad,F-10,Flat,4.0,3.0,3.0,13500000.0,2019,2025-10-31,No,,7.4,Builder,Pending
+PK-0109,Faisalabad,Eden Gardens,House,20.0,7.0,7.0,23050000.0,1991,2025-03-31,No,1.0,5.0,Owner,Pending
+PK-0110,Lahore,Wapda Town,Plot,40.0,0.0,0.0,96450000.0,2009,2026-09-01,No,0.0,9.6,Owner,Available
+PK-0111,Islamabad,Bahria Town Phase 7,Flat,6.0,2.0,3.0,35050000.0,2008,2025-03-13,No,1.0,4.1,Owner,Available
+PK-0112,Karachi,Bahria Town Karachi,Plot,5.0,0.0,0.0,8350000.0,2000,2026-04-12,No,0.0,10.7,Builder,Available
+PK-0113,Lahore,Model Town,House,5.0,2.0,2.0,18300000.0,1995,2026-06-12,No,3.0,2.7,Builder,Pending
+PK-0114,Faisalabad,Peoples Colony,Flat,6.0,3.0,3.0,,2000,2026-03-17,No,1.0,4.6,Builder,Available
+PK-0115,Multan,Model Town Multan,Plot,10.0,0.0,0.0,12350000.0,1995,2025-10-22,No,0.0,5.9,Dealer,Available
+PK-0116,Karachi,PECHS,House,20.0,6.0,7.0,56550000.0,2021,2025-11-13,No,2.0,6.8,Dealer,Available
+PK-0117,Multan,Bosan Road,Plot,5.0,0.0,0.0,4800000.0,2018,2026-05-21,No,0.0,,Dealer,Available
+PK-0118,Lahore,DHA Phase 5,Flat,4.0,1.0,1.0,11750000.0,1997,2025-10-10,No,0.0,10.8,Builder,Sold
+PK-0119,Lahore,Bahria Town,Flat,4.0,3.0,3.0,9600000.0,2005,2025-04-25,Yes,0.0,5.3,Dealer,Pending
+PK-0120,Lahore,Bahria Town,House,5.0,4.0,4.0,13950000.0,2008,2025-04-02,No,3.0,2.7,Dealer,Sold
+PK-0121,Islamabad,G-13,Commercial,2.0,0.0,1.0,15450000.0,2015,2025-03-05,No,2.0,14.9,Dealer,Sold
+PK-0122,Islamabad,Bahria Town Phase 7,Plot,20.0,0.0,0.0,63650000.0,2013,2025-08-14,No,0.0,3.9,Owner,Sold
+PK-0123,Karachi,DHA Phase 6,Flat,3.0,1.0,1.0,5800000.0,2018,2026-05-22,Yes,,1.9,Owner,Available
+PK-0124,Karachi,DHA Phase 6,Plot,5.0,0.0,0.0,13900000.0,2018,2025-04-16,No,0.0,5.5,Builder,Sold
+PK-0125,Karachi,Clifton,House,10.0,4.0,4.0,32500000.0,2017,2025-11-19,Yes,1.0,3.8,Dealer,Sold
+PK-0126,Karachi,North Nazimabad,House,20.0,7.0,7.0,47450000.0,2021,2026-05-21,No,2.0,0.5,Dealer,Available
+PK-0127,Karachi,Clifton,Flat,3.0,1.0,2.0,9050000.0,2011,2025-05-17,Yes,0.0,,Owner,Pending
+PK-0128,Multan,Wapda Town Multan,House,10.0,5.0,5.0,14200000.0,2002,2025-10-24,No,1.0,9.1,Owner,Sold
+PK-0129,Faisalabad,Peoples Colony,House,10.0,,4.0,19000000.0,2006,2025-01-27,No,1.0,3.7,Dealer,Sold
+PK-0130,Lahore,Gulberg,Flat,3.0,1.0,1.0,5500000.0,2013,2025-05-26,No,0.0,5.3,Dealer,Available
+PK-0131,Lahore,Model Town,House,10.0,4.0,4.0,33200000.0,2013,2025-03-03,Yes,1.0,4.6,Dealer,Available
+PK-0132,Faisalabad,Madina Town,Flat,4.0,1.0,1.0,4400000.0,2015,2026-06-26,No,1.0,19.5,Dealer,Pending
+PK-0133,Lahore,Gulberg,House,20.0,6.0,7.0,64050000.0,2002,2025-03-27,No,1.0,15.7,Owner,Available
+PK-0134,Faisalabad,Peoples Colony,Plot,10.0,0.0,0.0,10200000.0,2015,2026-09-09,No,0.0,13.4,Owner,Pending
+PK-0135,Multan,Cantt,House,10.0,3.0,3.0,10700000.0,1996,2025-05-13,No,2.0,4.3,Dealer,Available
+PK-0136,Lahore,Valencia Town,Flat,4.0,2.0,2.0,10350000.0,1994,2025-07-23,No,0.0,6.8,Dealer,Pending
+PK-0137,Multan,Shah Rukn-e-Alam Colony,House,5.0,3.0,4.0,5300000.0,2004,2025-05-13,Yes,1.0,14.8,Dealer,Available
+PK-0138,Karachi,PECHS,House,5.0,3.0,3.0,16000000.0,2010,2025-03-23,No,3.0,9.8,Owner,Available
+PK-0139,Karachi,DHA Phase 6,Commercial,8.0,0.0,1.0,23850000.0,2024,2026-04-07,Yes,0.0,15.1,Owner,Available
+PK-0140,Islamabad,E-11,House,5.0,3.0,4.0,22900000.0,2013,2025-08-08,No,2.0,14.6,Dealer,Available
+PK-0141,Lahore,Bahria Town,House,7.0,4.0,4.0,36850000.0,2021,2026-06-21,No,3.0,7.7,Owner,Available
+PK-0142,Lahore,Bahria Town,House,20.0,7.0,7.0,80100000.0,1996,2025-04-09,Yes,2.0,2.4,Owner,Sold
+PK-0143,Karachi,Gulshan-e-Iqbal,House,10.0,5.0,6.0,20000000.0,2015,2026-09-25,Yes,2.0,19.4,Dealer,Sold
+PK-0144,Faisalabad,Jinnah Colony,House,5.0,2.0,,8500000.0,2001,2025-05-06,Yes,3.0,4.7,Dealer,Pending
+PK-0145,Karachi,Clifton,Commercial,12.0,0.0,2.0,67150000.0,2011,2025-06-07,No,3.0,9.0,Dealer,Available
+PK-0146,Islamabad,F-10,House,5.0,3.0,3.0,18300000.0,1997,2025-01-31,No,1.0,2.6,Owner,Available
+PK-0147,Karachi,PECHS,Commercial,2.0,0.0,3.0,8200000.0,2000,2025-09-17,No,1.0,13.1,Dealer,Available
+PK-0148,Lahore,Valencia Town,Commercial,2.0,0.0,1.0,13900000.0,2020,2025-06-15,No,1.0,4.2,Dealer,Sold
+PK-0149,Multan,DHA Multan,Flat,8.0,2.0,2.0,,1990,2026-02-27,No,1.0,5.0,Dealer,Available
+PK-0150,Karachi,Scheme 33,Flat,2.0,1.0,1.0,3850000.0,1994,2026-03-09,No,0.0,3.7,Dealer,Available
+PK-0151,Lahore,Wapda Town,Flat,6.0,2.0,3.0,14300000.0,1997,2025-04-16,No,1.0,5.3,Dealer,Available
+PK-0152,Faisalabad,Madina Town,Plot,20.0,0.0,0.0,29900000.0,2009,2025-11-25,No,,2.8,Owner,Available
+PK-0153,Islamabad,E-11,Commercial,2.0,0.0,3.0,14800000.0,2018,2025-04-08,No,1.0,4.5,Dealer,Available
+PK-0154,Karachi,Gulshan-e-Iqbal,House,3.0,2.0,3.0,9150000.0,2016,2025-04-24,No,3.0,14.6,Dealer,Sold
+PK-0155,Islamabad,Bahria Town Phase 7,House,20.0,6.0,6.0,86200000.0,2006,2026-02-16,No,1.0,9.5,Dealer,Available
+PK-0156,Islamabad,E-11,House,7.0,3.0,4.0,17100000.0,1993,2025-01-17,No,2.0,6.8,Owner,Available
+PK-0157,Islamabad,DHA Phase 2,Commercial,12.0,0.0,3.0,68250000.0,2007,2025-12-03,No,3.0,8.6,Owner,Available
+PK-0158,Islamabad,I-8,House,3.0,3.0,4.0,13450000.0,2008,2025-10-26,No,2.0,2.2,Dealer,Available
+PK-0159,Multan,Wapda Town Multan,House,5.0,3.0,3.0,9300000.0,2014,2026-02-24,No,2.0,3.8,Owner,Pending
+PK-0160,Karachi,Bahria Town Karachi,House,10.0,5.0,5.0,14050000.0,2001,2025-09-10,No,1.0,1.1,Builder,Available
+PK-0161,Karachi,Gulshan-e-Iqbal,Flat,4.0,1.0,1.0,7700000.0,2009,2026-05-06,Yes,1.0,4.4,Dealer,Available
+PK-0162,Lahore,Gulberg,Commercial,8.0,0.0,4.0,86750000.0,2022,2026-01-19,Yes,0.0,3.5,Dealer,Sold
+PK-0163,Karachi,Gulistan-e-Jauhar,Plot,5.0,0.0,0.0,7400000.0,1991,2025-04-10,No,0.0,8.5,Owner,Available
+PK-0164,Lahore,DHA Phase 5,Plot,20.0,0.0,0.0,43750000.0,2020,2025-09-27,No,0.0,3.9,Owner,Available
+PK-0165,Faisalabad,Madina Town,Commercial,12.0,0.0,2.0,30300000.0,2017,2026-09-18,No,4.0,,Owner,Available
+PK-0166,Multan,Model Town Multan,Plot,10.0,0.0,0.0,9200000.0,2020,2025-05-29,No,0.0,8.4,Dealer,Available
+PK-0167,Lahore,Askari 10,House,40.0,7.0,7.0,130300000.0,2019,2025-06-21,Yes,,9.9,Owner,Available
+PK-0168,Faisalabad,Eden Gardens,House,10.0,4.0,5.0,14300000.0,2022,2025-03-15,No,3.0,14.0,Owner,Available
+PK-0169,Multan,Buch Villas,Plot,5.0,0.0,0.0,4350000.0,2011,2025-08-17,No,0.0,4.4,Owner,Pending
+PK-0170,Lahore,Askari 10,House,5.0,3.0,3.0,12850000.0,1997,2025-10-05,No,1.0,6.8,Dealer,Available
+PK-0171,Lahore,Bahria Town,Commercial,8.0,0.0,4.0,19650000.0,1992,2026-07-24,Yes,2.0,13.8,Dealer,Pending
+PK-0172,Faisalabad,Samanabad,Flat,8.0,3.0,3.0,9400000.0,2025,2026-03-22,No,1.0,22.6,Dealer,Available
+PK-0173,Multan,Cantt,Plot,5.0,0.0,0.0,8600000.0,2003,2025-08-02,No,0.0,2.5,Dealer,Available
+PK-0174,Multan,Wapda Town Multan,House,7.0,3.0,4.0,4950000.0,1996,2025-10-03,No,3.0,19.0,Dealer,Sold
+PK-0175,Islamabad,Gulberg Greens,Flat,3.0,1.0,2.0,12250000.0,2019,2025-09-21,No,1.0,7.4,Dealer,Sold
+PK-0176,Lahore,Johar Town,House,10.0,5.0,6.0,33350000.0,1999,2025-02-21,No,2.0,1.0,Builder,Sold
+PK-0177,Islamabad,B-17,Plot,10.0,0.0,0.0,23450000.0,2008,2025-01-07,No,0.0,6.9,Dealer,Sold
+PK-0178,Lahore,Model Town,House,3.0,5.0,5.0,10800000.0,2020,2026-09-24,Yes,2.0,7.3,Owner,Available
+PK-0179,Karachi,Gulshan-e-Iqbal,House,7.0,3.0,3.0,20500000.0,1999,2026-09-11,No,2.0,3.2,Owner,Sold
+PK-0180,Lahore,Askari 10,House,20.0,7.0,7.0,60350000.0,1998,2026-03-21,No,2.0,14.8,Dealer,Available
+PK-0181,Multan,Model Town Multan,House,10.0,4.0,4.0,7700000.0,1993,2025-04-11,No,3.0,4.2,Owner,Pending
+PK-0182,Karachi,Gulistan-e-Jauhar,House,20.0,7.0,7.0,39050000.0,2006,2026-03-28,No,2.0,5.6,Owner,Available
+PK-0183,Karachi,DHA Phase 6,House,3.0,2.0,3.0,10050000.0,2004,2025-08-20,No,1.0,5.3,Dealer,Available
+PK-0184,Karachi,North Nazimabad,House,10.0,4.0,5.0,23900000.0,2005,2026-06-17,No,2.0,5.4,Dealer,Available
+PK-0185,Lahore,Wapda Town,Flat,2.0,1.0,1.0,,2024,2025-10-01,Yes,0.0,5.4,Builder,Available
+PK-0186,Lahore,Johar Town,Flat,3.0,2.0,2.0,9100000.0,2023,2026-06-18,No,1.0,12.1,Dealer,Available
+PK-0187,Karachi,PECHS,Plot,5.0,0.0,0.0,10700000.0,2014,2025-12-10,No,0.0,6.6,Owner,Available
+PK-0188,Faisalabad,Peoples Colony,House,10.0,5.0,5.0,21750000.0,2000,2025-05-21,Yes,1.0,2.5,Builder,Available
+PK-0189,Karachi,Gulshan-e-Iqbal,Commercial,4.0,0.0,4.0,20350000.0,2007,2025-12-22,No,2.0,5.5,Builder,Pending
+PK-0190,Lahore,Wapda Town,House,3.0,2.0,3.0,12150000.0,2011,2026-08-24,No,2.0,13.5,Dealer,Available
+PK-0191,Lahore,Johar Town,House,5.0,2.0,3.0,23250000.0,2008,2025-01-12,No,3.0,11.1,Owner,Available
+PK-0192,Karachi,Clifton,House,5.0,3.0,3.0,22000000.0,2013,2025-01-16,Yes,1.0,6.5,Owner,Pending
+PK-0193,Lahore,Wapda Town,House,40.0,7.0,7.0,140500000.0,2011,2026-06-27,No,1.0,3.6,Owner,Available
+PK-0194,Faisalabad,Peoples Colony,Plot,40.0,0.0,0.0,65650000.0,2002,2026-06-23,No,0.0,4.1,Dealer,Available
+PK-0195,Lahore,Model Town,House,5.0,3.0,4.0,29350000.0,2011,2026-09-18,Yes,1.0,5.4,Dealer,Sold
+PK-0196,Multan,Bosan Road,Flat,3.0,,2.0,,1994,2025-03-17,Yes,1.0,2.1,Dealer,Available
+PK-0197,Lahore,Wapda Town,House,10.0,5.0,5.0,57450000.0,2021,2025-01-18,No,1.0,8.1,Owner,Sold
+PK-0198,Faisalabad,Samanabad,House,5.0,2.0,3.0,18300000.0,2022,2025-01-26,No,3.0,9.9,Owner,Pending
+PK-0199,Lahore,,Flat,4.0,1.0,1.0,8050000.0,1997,2025-02-19,No,1.0,,Owner,Available
+PK-0200,Multan,Gulgasht Colony,Flat,2.0,2.0,3.0,1700000.0,1992,2026-02-04,No,0.0,7.5,Owner,Available
+PK-0201,Faisalabad,Jinnah Colony,House,7.0,,3.0,10550000.0,1997,2025-01-15,Yes,3.0,5.9,Owner,Available
+PK-0202,Lahore,Askari 10,Flat,8.0,4.0,4.0,15100000.0,1990,2025-11-26,No,0.0,5.6,Dealer,Pending
+PK-0203,Multan,Shah Rukn-e-Alam Colony,Flat,6.0,,,7400000.0,2001,2025-01-17,Yes,1.0,17.9,Dealer,Available
+PK-0204,Faisalabad,Samanabad,House,5.0,3.0,3.0,8100000.0,2007,2026-07-17,No,1.0,3.2,Dealer,Sold
+PK-0205,Karachi,Bahria Town Karachi,Flat,2.0,1.0,1.0,5750000.0,1993,2025-04-09,No,0.0,14.6,Owner,Sold
+PK-0206,Faisalabad,Samanabad,House,10.0,5.0,6.0,13400000.0,2015,2026-07-29,No,3.0,12.6,Owner,Sold
+PK-0207,Multan,Gulgasht Colony,Plot,5.0,,0.0,4650000.0,2017,2025-11-30,No,0.0,5.7,Owner,Sold
+PK-0208,Islamabad,Gulberg Greens,House,40.0,7.0,7.0,199900000.0,1994,2026-07-30,Yes,1.0,9.1,Dealer,Sold
+PK-0209,Multan,Bosan Road,House,5.0,3.0,3.0,8950000.0,2023,2026-06-05,No,2.0,4.3,Dealer,Sold
+PK-0210,Multan,Cantt,Plot,20.0,0.0,0.0,35150000.0,2016,2026-06-15,No,0.0,7.4,Builder,Available
+PK-0211,Karachi,Scheme 33,Plot,5.0,0.0,0.0,9950000.0,2020,2025-09-05,No,0.0,9.6,Owner,Pending
+PK-0212,Karachi,Clifton,Plot,10.0,0.0,0.0,32050000.0,2005,2026-05-03,No,0.0,7.6,Dealer,Available
+PK-0213,Karachi,Scheme 33,Plot,20.0,0.0,0.0,33200000.0,1997,2026-05-13,No,0.0,13.0,Owner,Pending
+PK-0214,Lahore,Gulberg,House,20.0,6.0,7.0,69050000.0,1990,2026-04-13,No,2.0,14.4,Owner,Available
+PK-0215,Islamabad,B-17,House,20.0,6.0,6.0,62750000.0,2002,2026-01-28,No,3.0,1.5,Owner,Pending
+PK-0216,Lahore,Model Town,Flat,2.0,2.0,3.0,4250000.0,1997,2026-05-03,No,1.0,11.6,Owner,Available
+PK-0217,Faisalabad,Eden Gardens,Flat,4.0,2.0,3.0,4950000.0,2009,2026-09-26,No,0.0,2.8,Builder,Sold
+PK-0218,Lahore,DHA Phase 5,Commercial,2.0,0.0,3.0,14700000.0,2014,2026-06-25,No,0.0,4.4,Owner,Sold
+PK-0219,Lahore,Model Town,Flat,4.0,2.0,2.0,,2001,2026-03-22,No,0.0,8.8,Owner,Sold
+PK-0220,Lahore,Bahria Town,House,10.0,4.0,5.0,34200000.0,2005,2026-08-22,No,2.0,20.9,Owner,Sold
+PK-0221,Islamabad,Gulberg Greens,Flat,3.0,1.0,1.0,9350000.0,2001,2025-10-10,No,1.0,5.3,Owner,Sold
+PK-0222,Karachi,PECHS,Plot,5.0,0.0,0.0,10500000.0,2014,2025-04-11,No,0.0,17.9,Dealer,Sold
+PK-0223,Karachi,DHA Phase 6,Commercial,12.0,0.0,4.0,64600000.0,2024,2026-06-16,No,,0.8,Dealer,Sold
+PK-0224,Islamabad,Bahria Town Phase 7,House,10.0,3.0,3.0,47950000.0,2021,2025-05-09,No,3.0,2.6,Dealer,Sold
+PK-0225,Multan,Cantt,House,7.0,,3.0,13200000.0,2023,2025-10-09,No,1.0,7.8,Dealer,Available
+PK-0226,Multan,Bosan Road,House,3.0,,2.0,,2003,2025-07-21,No,2.0,2.4,Owner,Available
+PK-0227,Lahore,Askari 10,House,10.0,3.0,3.0,27750000.0,1992,2026-03-05,No,2.0,2.7,Owner,Pending
+PK-0228,Lahore,Johar Town,House,5.0,3.0,3.0,7550000.0,1998,2025-12-30,Yes,2.0,7.9,Owner,Sold
+PK-0229,Karachi,North Nazimabad,Flat,2.0,1.0,1.0,4450000.0,2010,2025-01-26,No,,0.5,Owner,Sold
+PK-0230,Karachi,Gulistan-e-Jauhar,Plot,10.0,0.0,0.0,35200000.0,2010,2026-04-19,No,0.0,9.8,Dealer,Pending
+PK-0231,Lahore,Johar Town,House,7.0,3.0,4.0,30100000.0,1997,2025-09-12,Yes,3.0,3.4,Dealer,Available
+PK-0232,Karachi,Clifton,Flat,6.0,3.0,3.0,11450000.0,2018,2026-07-21,No,1.0,3.6,Builder,Available
+PK-0233,Lahore,Wapda Town,Plot,20.0,0.0,0.0,44100000.0,1997,2026-06-25,No,0.0,11.1,Owner,Available
+PK-0234,Lahore,Bahria Town,Flat,3.0,,2.0,5750000.0,2000,2025-02-01,No,0.0,13.1,Dealer,Available
+PK-0235,Karachi,Scheme 33,House,5.0,3.0,3.0,10800000.0,2005,2026-09-24,Yes,1.0,3.8,Owner,Available
+PK-0236,Islamabad,I-8,Flat,4.0,2.0,2.0,9200000.0,2025,2026-02-02,No,1.0,18.2,Owner,Sold
+PK-0237,Karachi,Clifton,House,7.0,3.0,3.0,30600000.0,1991,2026-06-25,Yes,,6.6,Owner,Sold
+PK-0238,Lahore,Wapda Town,Plot,10.0,0.0,0.0,32850000.0,2002,2025-07-05,No,0.0,19.7,Owner,Available
+PK-0239,Multan,Shah Rukn-e-Alam Colony,Plot,20.0,0.0,0.0,23600000.0,2012,2026-01-04,No,0.0,4.7,Owner,Pending
+PK-0240,Karachi,Clifton,House,3.0,2.0,3.0,12450000.0,2024,2025-02-20,No,1.0,5.6,Owner,Sold
+PK-0241,Faisalabad,Eden Gardens,House,5.0,2.0,2.0,9600000.0,2014,2026-04-08,No,1.0,7.7,Owner,Sold
+PK-0242,Lahore,Wapda Town,Plot,10.0,,,26800000.0,1998,2026-05-12,No,0.0,4.4,Dealer,Available
+PK-0243,Lahore,Gulberg,House,7.0,3.0,3.0,22500000.0,1990,2026-05-19,No,2.0,2.7,Dealer,Available
+PK-0244,Lahore,,House,10.0,4.0,5.0,32100000.0,2001,2025-12-28,No,2.0,2.5,Builder,Pending
+PK-0245,Lahore,Askari 10,House,10.0,4.0,5.0,34500000.0,2004,2025-10-15,No,2.0,10.0,Owner,Available
+PK-0246,Karachi,Scheme 33,House,10.0,5.0,6.0,25250000.0,1991,2026-08-20,No,2.0,,Dealer,Available
+PK-0247,Islamabad,I-8,House,10.0,4.0,4.0,35450000.0,1996,2025-02-27,No,3.0,3.9,Dealer,Available
+PK-0248,Islamabad,F-10,Flat,8.0,3.0,3.0,23200000.0,2005,2025-04-22,No,1.0,,Owner,Available
+PK-0249,Faisalabad,Samanabad,House,7.0,3.0,3.0,8200000.0,1990,2025-09-13,Yes,3.0,7.4,Dealer,Sold
+PK-0250,Lahore,Model Town,Flat,4.0,2.0,2.0,11350000.0,2012,2025-04-14,No,0.0,5.8,Dealer,Available
+PK-0251,Multan,Shah Rukn-e-Alam Colony,House,5.0,2.0,3.0,5600000.0,2016,2026-07-14,Yes,1.0,4.3,Owner,Available
+PK-0252,Faisalabad,Samanabad,Flat,2.0,1.0,1.0,1700000.0,2019,2025-09-18,No,1.0,7.4,Builder,Available
+PK-0253,Karachi,DHA Phase 6,Flat,6.0,3.0,3.0,16950000.0,1994,2025-05-31,Yes,0.0,7.2,Dealer,Available
+PK-0254,Multan,DHA Multan,House,5.0,2.0,2.0,8450000.0,2009,2026-08-27,No,3.0,8.0,Owner,Available
+PK-0255,Lahore,Wapda Town,Flat,2.0,1.0,1.0,5000000.0,2022,2025-07-24,Yes,0.0,1.9,Dealer,Sold
+PK-0256,Karachi,North Nazimabad,House,5.0,2.0,2.0,18850000.0,2024,2025-02-06,No,2.0,6.8,Owner,Sold
+PK-0257,Islamabad,F-10,House,7.0,4.0,4.0,33150000.0,2004,2025-04-27,Yes,2.0,12.2,Builder,Available
+PK-0258,Karachi,PECHS,House,5.0,3.0,4.0,20500000.0,1990,2025-08-14,No,2.0,15.7,Dealer,Available
+PK-0259,Karachi,Gulistan-e-Jauhar,House,20.0,6.0,7.0,83000000.0,2009,2025-05-24,Yes,2.0,10.8,Owner,Available
+PK-0260,Faisalabad,Canal Road,Flat,3.0,2.0,,5850000.0,2011,2025-02-28,No,1.0,5.2,Dealer,Available
+PK-0261,Karachi,PECHS,House,10.0,4.0,4.0,21750000.0,2019,2026-03-30,No,1.0,11.6,Dealer,Available
+PK-0262,Lahore,Bahria Town,Plot,10.0,0.0,0.0,32100000.0,1998,2025-07-30,No,0.0,2.7,Owner,Sold
+PK-0263,Lahore,Johar Town,House,10.0,4.0,4.0,55900000.0,2013,2025-08-06,No,2.0,4.3,Dealer,Pending
+PK-0264,Karachi,North Nazimabad,Flat,3.0,,,8300000.0,2019,2026-07-19,Yes,1.0,16.6,Dealer,Available
+PK-0265,Karachi,DHA Phase 6,House,7.0,4.0,5.0,13800000.0,2013,2026-02-16,No,3.0,13.0,Dealer,Sold
+PK-0266,Lahore,Gulberg,House,20.0,6.0,7.0,42500000.0,1995,2026-01-14,Yes,3.0,7.0,Builder,Sold
+PK-0267,Karachi,Bahria Town Karachi,Commercial,8.0,0.0,3.0,37600000.0,2023,2025-09-28,Yes,3.0,5.1,,Pending
+PK-0268,Karachi,Gulistan-e-Jauhar,House,7.0,4.0,5.0,12700000.0,1992,2025-07-17,No,2.0,11.5,Dealer,Available
+PK-0269,Lahore,Askari 10,House,7.0,3.0,3.0,43150000.0,2013,2026-05-11,No,2.0,2.9,Dealer,Available
+PK-0270,Karachi,Bahria Town Karachi,House,3.0,2.0,2.0,9900000.0,2013,2025-11-24,Yes,3.0,9.8,Owner,Available
+PK-0271,Faisalabad,Eden Gardens,Commercial,4.0,0.0,1.0,11500000.0,2023,2026-03-08,No,1.0,24.4,Owner,Sold
+PK-0272,Lahore,Valencia Town,Flat,3.0,2.0,2.0,11300000.0,2007,2025-11-29,Yes,0.0,3.5,Owner,Sold
+PK-0273,Karachi,,House,7.0,4.0,5.0,21150000.0,2020,2026-01-14,No,1.0,7.0,Owner,Available
+PK-0274,Multan,Cantt,Plot,8.0,0.0,0.0,10150000.0,2021,2025-07-19,No,0.0,9.8,Owner,Sold
+PK-0275,Islamabad,G-13,Flat,8.0,4.0,5.0,28850000.0,1998,2026-01-22,No,1.0,6.9,Dealer,Available
+PK-0276,Faisalabad,Madina Town,House,3.0,2.0,2.0,5050000.0,2007,2026-08-12,No,2.0,8.3,Owner,Available
+PK-0277,Karachi,Scheme 33,Flat,2.0,2.0,3.0,5900000.0,2020,2026-03-13,No,1.0,10.8,Builder,Pending
+PK-0278,Multan,Model Town Multan,Plot,8.0,0.0,0.0,11750000.0,2019,2025-01-26,No,0.0,7.9,Builder,Pending
+PK-0279,Islamabad,I-8,Flat,2.0,2.0,3.0,6000000.0,2007,2026-01-21,No,0.0,6.2,Dealer,Available
+PK-0280,Karachi,PECHS,House,3.0,2.0,2.0,11650000.0,2009,2025-01-26,Yes,2.0,2.4,Dealer,Pending
+PK-0281,Karachi,PECHS,Flat,6.0,3.0,3.0,8600000.0,2023,2026-04-17,No,0.0,12.0,Owner,Pending
+PK-0282,Karachi,Gulistan-e-Jauhar,House,5.0,3.0,,11850000.0,1993,2026-06-27,Yes,,7.6,Dealer,Available
+PK-0283,Islamabad,DHA Phase 2,House,20.0,7.0,7.0,66400000.0,2012,2026-05-23,No,3.0,3.3,Owner,Available
+PK-0284,Faisalabad,Canal Road,House,20.0,6.0,7.0,24050000.0,2002,2025-07-11,No,3.0,9.0,Builder,Available
+PK-0285,Karachi,Scheme 33,Flat,3.0,1.0,2.0,9550000.0,2004,2025-06-16,Yes,1.0,7.8,Owner,Available
+PK-0286,Faisalabad,Canal Road,House,5.0,3.0,4.0,6950000.0,1999,2025-11-16,No,2.0,0.8,Dealer,Available
+PK-0287,Islamabad,Bahria Town Phase 7,House,7.0,3.0,4.0,21150000.0,2006,2026-05-28,No,3.0,16.1,Dealer,Pending
+PK-0288,Faisalabad,Jinnah Colony,Flat,6.0,3.0,4.0,9050000.0,2014,2026-01-23,Yes,0.0,,Dealer,Available
+PK-0289,Faisalabad,Millat Town,House,3.0,2.0,3.0,3500000.0,1994,2026-02-28,No,1.0,6.6,Dealer,Available
+PK-0290,Lahore,Model Town,Flat,3.0,1.0,1.0,10150000.0,2004,2026-07-14,No,1.0,4.3,Dealer,Sold
+PK-0291,Islamabad,Bahria Town Phase 7,House,5.0,3.0,3.0,35550000.0,2013,2026-06-14,No,1.0,8.2,Dealer,Available
+PK-0292,Lahore,,Commercial,4.0,0.0,1.0,29450000.0,2020,2025-11-28,No,4.0,1.3,Dealer,Available
+PK-0293,Faisalabad,Peoples Colony,Plot,20.0,0.0,0.0,24300000.0,1992,2025-05-01,No,0.0,4.3,Dealer,Pending
+PK-0294,Karachi,Gulistan-e-Jauhar,House,10.0,4.0,4.0,,2011,2026-03-09,No,1.0,8.1,Owner,Available
+PK-0295,Multan,Wapda Town Multan,House,40.0,7.0,7.0,40050000.0,2018,2026-01-16,No,2.0,16.6,Dealer,Available
+PK-0296,Lahore,Model Town,House,10.0,3.0,3.0,24950000.0,2006,2025-02-03,No,2.0,19.9,Dealer,Available
+PK-0297,Karachi,Bahria Town Karachi,Flat,6.0,2.0,2.0,19100000.0,2001,2025-07-31,No,0.0,5.4,Owner,Available
+PK-0298,Islamabad,E-11,Flat,3.0,1.0,,7750000.0,2017,2026-06-11,No,0.0,4.3,Dealer,Sold
+PK-0299,Karachi,DHA Phase 6,House,5.0,2.0,2.0,9850000.0,2006,2025-08-14,Yes,3.0,11.0,Dealer,Available
+PK-0300,Islamabad,I-8,Flat,6.0,3.0,3.0,29150000.0,2015,2026-02-23,No,0.0,8.9,Owner,Sold
+PK-0301,Lahore,Valencia Town,Commercial,4.0,0.0,4.0,28800000.0,1997,2025-03-27,No,3.0,3.3,Builder,Sold
+PK-0302,Karachi,Clifton,House,3.0,2.0,2.0,12850000.0,2023,2026-01-28,No,3.0,6.8,Owner,Available
+PK-0303,Lahore,Askari 10,Commercial,4.0,0.0,3.0,21550000.0,1997,2025-11-28,No,3.0,10.7,Dealer,Available
+PK-0304,Lahore,DHA Phase 5,Flat,2.0,1.0,2.0,3800000.0,2020,2025-10-05,No,1.0,9.5,Owner,Sold
+PK-0305,Karachi,Bahria Town Karachi,Plot,40.0,0.0,0.0,77400000.0,2018,2026-06-08,No,0.0,5.3,Owner,Sold
+PK-0306,Multan,Model Town Multan,Flat,2.0,2.0,2.0,1450000.0,1998,2025-04-01,No,1.0,13.4,Owner,Available
+PK-0307,Islamabad,Bahria Town Phase 7,House,10.0,4.0,4.0,37650000.0,2006,2025-03-10,No,1.0,13.4,Dealer,Available
+PK-0308,Islamabad,E-11,Plot,10.0,0.0,0.0,46600000.0,1992,2026-05-17,No,0.0,9.2,Owner,Pending
+PK-0309,Faisalabad,Peoples Colony,House,5.0,3.0,4.0,8250000.0,2006,2026-09-02,No,3.0,3.6,Owner,Available
+PK-0310,Faisalabad,Jinnah Colony,Commercial,8.0,0.0,1.0,18650000.0,2016,2025-10-08,Yes,2.0,13.2,Dealer,Pending
+PK-0311,Islamabad,E-11,House,3.0,3.0,4.0,11400000.0,2017,2025-12-25,No,2.0,,Dealer,Available
+PK-0312,Lahore,DHA Phase 5,Plot,10.0,0.0,0.0,34400000.0,1997,2025-08-20,No,0.0,4.5,Dealer,Available
+PK-0313,Karachi,Gulshan-e-Iqbal,Plot,10.0,0.0,0.0,27850000.0,2022,2026-09-10,No,0.0,2.2,Dealer,Sold
+PK-0314,Karachi,PECHS,Plot,20.0,0.0,0.0,64900000.0,2010,2026-05-21,No,0.0,2.0,Owner,Sold
+PK-0315,Faisalabad,Peoples Colony,House,20.0,5.0,5.0,38000000.0,2020,2025-03-24,No,2.0,7.9,Owner,Sold
+PK-0316,Lahore,Model Town,Flat,2.0,1.0,2.0,4600000.0,2002,2026-09-25,Yes,1.0,9.4,,Available
+PK-0317,Multan,Wapda Town Multan,Plot,20.0,0.0,0.0,23900000.0,1993,2025-01-25,No,0.0,8.9,Owner,Pending
+PK-0318,Faisalabad,Citi Housing,House,40.0,7.0,7.0,59200000.0,2000,2026-07-10,Yes,2.0,6.4,Dealer,Available
+PK-0319,Lahore,Askari 10,Flat,6.0,2.0,3.0,25200000.0,2015,2025-08-10,No,0.0,5.0,Owner,Available
+PK-0320,Islamabad,G-13,Plot,10.0,0.0,0.0,36200000.0,2011,2025-06-18,No,0.0,14.4,Owner,Available
+PK-0321,Karachi,DHA Phase 6,House,7.0,3.0,4.0,8450000.0,2001,2026-01-02,No,1.0,28.0,Dealer,Available
+PK-0322,Karachi,Gulshan-e-Iqbal,Commercial,4.0,0.0,4.0,24200000.0,2006,2025-05-19,No,3.0,2.1,Dealer,Sold
+PK-0323,Lahore,Model Town,House,7.0,4.0,5.0,,1993,2026-06-04,Yes,2.0,5.0,Owner,Sold
+PK-0324,Lahore,DHA Phase 5,House,5.0,,3.0,15600000.0,2002,2026-04-05,Yes,3.0,24.1,Owner,Available
+PK-0325,Karachi,PECHS,Plot,5.0,0.0,0.0,15600000.0,2000,2026-08-03,No,0.0,4.0,Dealer,Sold
+PK-0326,Lahore,Bahria Town,Plot,5.0,0.0,0.0,18750000.0,2019,2026-06-21,No,0.0,3.3,Owner,Sold
+PK-0327,Karachi,North Nazimabad,Flat,4.0,3.0,4.0,10350000.0,2001,2025-06-11,No,0.0,12.8,Dealer,Available
+PK-0328,Multan,Wapda Town Multan,Plot,10.0,,0.0,11400000.0,2024,2025-12-22,No,0.0,3.6,Builder,Sold
+PK-0329,Faisalabad,Samanabad,House,20.0,7.0,7.0,39350000.0,2002,2025-11-19,No,1.0,5.0,Owner,Sold
+PK-0330,Faisalabad,Eden Gardens,House,5.0,2.0,2.0,7100000.0,2015,2026-02-08,No,1.0,6.7,Owner,Available
+PK-0331,Islamabad,E-11,House,5.0,,2.0,32150000.0,2021,2025-03-11,No,3.0,6.4,Owner,Pending
+PK-0332,Faisalabad,Peoples Colony,Plot,8.0,0.0,0.0,10700000.0,2016,2025-04-10,No,0.0,6.6,Owner,Available
+PK-0333,Faisalabad,Samanabad,Plot,5.0,0.0,0.0,6750000.0,2004,2025-09-12,No,0.0,2.6,Builder,Sold
+PK-0334,Islamabad,G-13,Plot,40.0,0.0,0.0,149000000.0,2011,2025-03-16,No,0.0,15.7,Dealer,Available
+PK-0335,Islamabad,F-10,House,20.0,7.0,7.0,101600000.0,2020,2026-01-29,Yes,3.0,2.6,Owner,Sold
+PK-0336,Karachi,Gulistan-e-Jauhar,House,7.0,3.0,3.0,31950000.0,2009,2025-09-26,No,1.0,13.4,Owner,Available
+PK-0337,Faisalabad,Citi Housing,House,5.0,4.0,5.0,7900000.0,2014,2025-07-01,No,1.0,4.5,Owner,Available
+PK-0338,Lahore,Bahria Town,House,10.0,5.0,5.0,51650000.0,2025,2026-02-05,Yes,2.0,4.8,Dealer,Available
+PK-0339,Islamabad,,Plot,40.0,0.0,0.0,156050000.0,2003,2025-08-03,No,0.0,9.3,Builder,Sold
+PK-0340,Karachi,Gulistan-e-Jauhar,House,20.0,7.0,7.0,52050000.0,2009,2026-02-12,Yes,2.0,11.3,Owner,Available
+PK-0341,Faisalabad,Citi Housing,House,10.0,3.0,3.0,14300000.0,2008,2025-02-01,No,1.0,12.0,Dealer,Available
+PK-0342,Multan,Cantt,Plot,20.0,0.0,0.0,,2003,2025-07-17,No,0.0,8.0,Builder,Sold
+PK-0343,Islamabad,G-13,Flat,4.0,2.0,,10500000.0,1995,2026-05-27,No,1.0,3.3,Dealer,Available
+PK-0344,Faisalabad,Madina Town,House,5.0,3.0,4.0,6400000.0,2016,2025-01-21,Yes,2.0,4.9,Owner,Sold
+PK-0345,Multan,Gulgasht Colony,Flat,3.0,2.0,,2600000.0,2012,2025-07-05,No,1.0,11.7,Owner,Available
+PK-0346,Karachi,Clifton,Plot,20.0,0.0,0.0,67900000.0,1999,2026-04-07,No,0.0,5.6,Owner,Available
+PK-0347,Lahore,Johar Town,House,10.0,5.0,6.0,33350000.0,1999,2025-02-21,No,2.0,1.0,Builder,Sold
+PK-0348,Faisalabad,Eden Gardens,House,5.0,4.0,5.0,8150000.0,2014,2025-07-01,Yes,2.0,4.5,Owner,Available
+PK-0349,Lahore,Model Town,House,40.0,7.0,7.0,158850000.0,2001,2025-06-22,Yes,2.0,4.2,Owner,Sold
+PK-0350,Karachi,Gulshan-e-Iqbal,Plot,40.0,0.0,0.0,96000000.0,2018,2025-02-07,No,0.0,5.0,Owner,Available
+PK-0351,Lahore,DHA Phase 5,Flat,4.0,3.0,3.0,9600000.0,1993,2025-03-10,No,1.0,5.1,Owner,Pending
+PK-0352,Multan,Cantt,House,5.0,4.0,5.0,8600000.0,2016,2025-07-06,Yes,3.0,4.6,Owner,Pending
+PK-0353,Lahore,Wapda Town,Commercial,12.0,0.0,2.0,164800000.0,1991,2026-05-21,No,4.0,4.7,Owner,Sold
+PK-0354,Multan,DHA Multan,Commercial,8.0,0.0,2.0,17050000.0,2009,2025-03-26,No,1.0,4.2,Dealer,Sold
+PK-0355,Karachi,Bahria Town Karachi,Plot,40.0,0.0,0.0,94050000.0,1990,2026-08-25,No,0.0,10.7,Owner,Available
+PK-0356,Lahore,DHA Phase 5,Flat,3.0,2.0,3.0,7750000.0,2019,2026-03-26,Yes,0.0,9.6,Owner,Pending
+PK-0357,Multan,DHA Multan,House,10.0,3.0,4.0,14350000.0,2002,2025-07-14,No,2.0,7.8,Owner,Available
+PK-0358,Lahore,Askari 10,House,7.0,2.0,2.0,14150000.0,1990,2026-08-22,No,2.0,9.3,Dealer,Sold
+PK-0359,Lahore,DHA Phase 5,House,20.0,7.0,7.0,82250000.0,2014,2025-06-23,Yes,2.0,13.4,Owner,Available
+PK-0360,Lahore,Valencia Town,House,5.0,3.0,4.0,18100000.0,2000,2026-05-16,No,1.0,7.5,Builder,Sold
+PK-0361,Lahore,Valencia Town,House,10.0,4.0,4.0,47450000.0,2017,2025-07-07,Yes,2.0,11.5,Owner,Available
+PK-0362,Faisalabad,Citi Housing,House,3.0,2.0,3.0,6650000.0,1998,2026-01-06,No,2.0,3.6,Dealer,Sold
+PK-0363,Lahore,Bahria Town,Plot,8.0,0.0,0.0,22550000.0,2002,2026-05-11,No,0.0,7.5,Builder,Available
+PK-0364,Lahore,Valencia Town,House,5.0,3.0,3.0,15050000.0,1993,2026-01-21,No,1.0,4.2,Owner,Available
+PK-0365,Karachi,PECHS,House,5.0,3.0,4.0,9000000.0,1991,2026-01-09,No,1.0,6.0,Owner,Pending
+PK-0366,Lahore,Wapda Town,House,7.0,2.0,3.0,36750000.0,2021,2025-11-16,Yes,3.0,6.8,Dealer,Pending
+PK-0367,Islamabad,Gulberg Greens,House,5.0,2.0,3.0,22500000.0,2016,2026-06-07,Yes,2.0,13.0,Owner,Available
+PK-0368,Islamabad,Bahria Town Phase 7,House,3.0,2.0,3.0,15000000.0,2024,2025-10-07,Yes,3.0,1.9,Builder,Available
+PK-0369,Islamabad,Bahria Town Phase 7,Flat,8.0,3.0,3.0,27600000.0,2016,2025-01-29,No,0.0,8.6,Builder,Available
+PK-0370,Multan,Buch Villas,Flat,4.0,2.0,3.0,3050000.0,1990,2025-06-15,Yes,0.0,9.2,Dealer,Pending
+PK-0371,Karachi,Gulistan-e-Jauhar,Commercial,20.0,0.0,3.0,209850000.0,2024,2025-08-19,No,0.0,1.4,Dealer,Sold
+PK-0372,Lahore,Gulberg,House,7.0,5.0,,15250000.0,1994,2025-02-22,Yes,3.0,14.1,Owner,Pending
+PK-0373,Faisalabad,Canal Road,Plot,5.0,0.0,0.0,4650000.0,1992,2026-03-13,No,0.0,7.1,Builder,Sold
+PK-0374,Islamabad,F-10,Plot,20.0,0.0,0.0,67700000.0,2022,2025-12-13,No,0.0,7.2,Dealer,Available
+PK-0375,Karachi,Bahria Town Karachi,House,7.0,4.0,5.0,16400000.0,2010,2025-11-19,Yes,3.0,7.4,Dealer,Available
+PK-0376,Islamabad,I-8,House,5.0,4.0,5.0,23950000.0,2011,2026-06-22,No,3.0,3.6,Owner,Sold
+PK-0377,Karachi,DHA Phase 6,Plot,8.0,0.0,0.0,28550000.0,2018,2025-08-23,No,0.0,5.6,,Sold
+PK-0378,Karachi,DHA Phase 6,Flat,3.0,3.0,3.0,7300000.0,2000,2025-04-16,Yes,1.0,6.4,Owner,Pending
+PK-0379,Faisalabad,Citi Housing,House,5.0,2.0,3.0,5700000.0,2009,2025-03-03,No,3.0,10.0,Builder,Available
+PK-0380,Karachi,Scheme 33,Plot,5.0,0.0,0.0,9200000.0,2019,2026-06-22,No,0.0,1.7,Owner,Available
+PK-0381,Lahore,Valencia Town,Flat,8.0,4.0,4.0,21250000.0,1997,2026-02-17,No,0.0,5.0,Dealer,Available
+PK-0382,Lahore,Gulberg,Commercial,8.0,0.0,3.0,70800000.0,2012,2025-03-10,Yes,4.0,5.1,Owner,Pending
+PK-0383,Islamabad,DHA Phase 2,Plot,5.0,0.0,0.0,16150000.0,2016,2025-06-20,No,0.0,5.0,Dealer,Available
+PK-0384,Islamabad,E-11,House,7.0,,5.0,28450000.0,1997,2025-11-26,No,2.0,3.9,Dealer,Sold
+PK-0385,Islamabad,B-17,House,10.0,4.0,5.0,44300000.0,2003,2025-03-16,No,1.0,8.3,Owner,Available
+PK-0386,Karachi,PECHS,Flat,4.0,2.0,2.0,11100000.0,2003,2026-03-06,No,0.0,1.2,Dealer,Sold
+PK-0387,Lahore,Bahria Town,Plot,10.0,0.0,0.0,32500000.0,2024,2026-02-19,No,0.0,13.2,Builder,Available
+PK-0388,Lahore,Model Town,Plot,5.0,0.0,0.0,15350000.0,1999,2026-07-28,No,0.0,8.2,Owner,Sold
+PK-0389,Islamabad,,Flat,3.0,1.0,2.0,15400000.0,2017,2025-03-13,No,0.0,13.2,Owner,Pending
+PK-0390,Lahore,Valencia Town,Commercial,20.0,0.0,3.0,74250000.0,2010,2026-04-06,No,2.0,3.5,Dealer,Available
+PK-0391,Karachi,DHA Phase 6,House,10.0,4.0,5.0,22650000.0,2005,2025-08-16,No,3.0,8.9,Owner,Available
+PK-0392,Lahore,Askari 10,House,10.0,4.0,5.0,,2004,2025-07-30,Yes,2.0,10.6,Builder,Sold
+PK-0393,Faisalabad,Millat Town,House,5.0,4.0,4.0,6350000.0,2004,2025-09-30,Yes,1.0,11.5,Owner,Available
+PK-0394,Karachi,Clifton,Flat,2.0,2.0,3.0,4000000.0,2006,2025-12-17,No,0.0,1.8,Dealer,Sold
+PK-0395,Faisalabad,Peoples Colony,Plot,10.0,0.0,0.0,14400000.0,2019,2025-01-20,No,0.0,6.5,Owner,Sold
+PK-0396,Lahore,Bahria Town,House,3.0,2.0,2.0,12600000.0,2015,2026-09-05,No,1.0,,Dealer,Available
+PK-0397,Lahore,Gulberg,House,40.0,7.0,7.0,123250000.0,2019,2026-02-07,No,3.0,5.9,Owner,Sold
+PK-0398,Islamabad,F-10,House,5.0,2.0,3.0,21350000.0,2017,2026-04-19,No,3.0,2.9,Dealer,Sold
+PK-0399,Karachi,Scheme 33,Plot,40.0,0.0,0.0,160000000.0,2021,2026-02-09,No,0.0,4.6,Dealer,Available
+PK-0400,Islamabad,I-8,House,10.0,4.0,4.0,30650000.0,2008,2025-01-24,No,2.0,11.0,Builder,Available
+PK-0401,Islamabad,E-11,Plot,10.0,0.0,0.0,54250000.0,1993,2026-05-18,No,,8.0,Owner,Sold
+PK-0402,Karachi,Bahria Town Karachi,House,5.0,2.0,2.0,15650000.0,2012,2026-08-29,No,1.0,3.8,Owner,Pending
+PK-0403,Karachi,Clifton,House,5.0,3.0,4.0,9800000.0,2006,2025-04-28,No,2.0,,Owner,Pending
+PK-0404,Karachi,Bahria Town Karachi,House,10.0,4.0,4.0,22650000.0,2010,2025-10-29,No,2.0,12.3,Dealer,Sold
+PK-0405,Multan,Bosan Road,House,10.0,4.0,5.0,13400000.0,2003,2026-06-02,No,3.0,10.4,Dealer,Available
+PK-0406,Lahore,Askari 10,Plot,5.0,0.0,0.0,16300000.0,1993,2025-04-05,No,0.0,3.0,Owner,Available
+PK-0407,Islamabad,B-17,Flat,6.0,2.0,2.0,14500000.0,2005,2025-04-14,No,0.0,8.9,Owner,Available
+PK-0408,Karachi,North Nazimabad,House,5.0,2.0,3.0,12150000.0,1990,2026-03-16,No,1.0,18.2,Owner,Available
+PK-0409,Karachi,DHA Phase 6,House,5.0,2.0,3.0,10600000.0,1997,2026-01-12,No,3.0,25.7,Owner,Available
+PK-0410,Lahore,Model Town,House,5.0,2.0,2.0,25300000.0,2010,2026-06-08,No,1.0,9.3,Dealer,Available
+PK-0411,Islamabad,E-11,House,7.0,,4.0,,2015,2025-09-03,No,1.0,7.6,Builder,Available
+PK-0412,Multan,Bosan Road,Flat,2.0,1.0,1.0,1950000.0,2014,2025-02-21,No,1.0,8.1,Owner,Pending
+PK-0413,Islamabad,B-17,Flat,6.0,2.0,2.0,13000000.0,1995,2026-07-08,Yes,0.0,17.7,Owner,Available
+PK-0414,Multan,Bosan Road,House,7.0,4.0,5.0,9300000.0,2010,2025-11-11,No,2.0,7.6,Dealer,Available
+PK-0415,Lahore,Gulberg,Flat,3.0,1.0,,5200000.0,2006,2026-01-07,No,1.0,7.7,Owner,Available
+PK-0416,Lahore,DHA Phase 5,House,5.0,2.0,3.0,25250000.0,2003,2025-01-16,Yes,1.0,6.5,Dealer,Available
+PK-0417,Lahore,Model Town,House,7.0,4.0,4.0,29250000.0,2025,2026-09-03,No,3.0,7.8,Dealer,Available
+PK-0418,Lahore,Model Town,House,5.0,2.0,3.0,17000000.0,2025,2026-09-08,No,1.0,0.9,Builder,Available
+PK-0419,Multan,Gulgasht Colony,Flat,2.0,1.0,1.0,1900000.0,2013,2026-09-30,No,0.0,6.2,Owner,Available
+PK-0420,Faisalabad,Millat Town,Plot,20.0,,0.0,16000000.0,2012,2026-07-21,No,0.0,19.1,Owner,Available
+PK-0421,Multan,Model Town Multan,Flat,3.0,1.0,2.0,4100000.0,1996,2025-01-12,No,1.0,,Owner,Sold
+PK-0422,Multan,DHA Multan,House,40.0,7.0,7.0,51050000.0,2010,2025-03-25,No,3.0,5.3,Owner,Sold
+PK-0423,Karachi,Gulistan-e-Jauhar,House,5.0,2.0,3.0,14450000.0,2009,2025-04-11,Yes,2.0,4.0,Owner,Sold
+PK-0424,Lahore,Askari 10,Flat,3.0,2.0,3.0,9150000.0,2014,2026-07-11,No,0.0,6.1,Builder,Sold
+PK-0425,Faisalabad,Eden Gardens,Flat,3.0,2.0,3.0,3800000.0,1992,2025-08-15,Yes,1.0,11.6,Dealer,Available
+PK-0426,Faisalabad,Citi Housing,Commercial,4.0,0.0,4.0,7100000.0,1990,2026-08-04,No,0.0,8.9,Owner,Available
+PK-0427,Lahore,Gulberg,Flat,6.0,3.0,3.0,16750000.0,1998,2025-10-20,No,1.0,6.1,Owner,Available
+PK-0428,Multan,Wapda Town Multan,Plot,10.0,,0.0,6300000.0,2021,2026-03-05,No,0.0,8.7,Builder,Sold
+PK-0429,Karachi,Gulshan-e-Iqbal,Plot,5.0,0.0,0.0,7200000.0,2002,2025-06-23,No,0.0,8.4,Dealer,Available
+PK-0430,Multan,Buch Villas,Plot,40.0,0.0,0.0,61900000.0,1998,2026-05-11,No,0.0,,Dealer,Sold
+PK-0431,Multan,Buch Villas,Flat,4.0,,3.0,4050000.0,2023,2026-06-07,No,1.0,12.3,Dealer,Sold
+PK-0432,Islamabad,DHA Phase 2,House,5.0,3.0,4.0,21100000.0,2009,2026-05-30,Yes,3.0,9.2,Owner,Available
+PK-0433,Lahore,Valencia Town,Flat,3.0,1.0,,,1993,2025-03-20,No,1.0,5.9,Owner,Available
+PK-0434,Multan,DHA Multan,Flat,4.0,2.0,2.0,5850000.0,1995,2026-04-25,Yes,,5.6,Owner,Pending
+PK-0435,Multan,Buch Villas,Flat,3.0,2.0,3.0,3900000.0,2012,2025-10-16,Yes,0.0,8.1,Owner,Available
+PK-0436,Islamabad,G-13,House,3.0,2.0,3.0,12600000.0,2006,2025-07-05,No,2.0,5.6,Owner,Sold
+PK-0437,Faisalabad,Eden Gardens,Plot,5.0,0.0,0.0,7850000.0,2006,2025-04-25,No,0.0,3.5,Builder,Available
+PK-0438,Multan,DHA Multan,House,7.0,3.0,3.0,11850000.0,2021,2026-07-10,Yes,2.0,7.1,Owner,Pending
+PK-0439,Lahore,DHA Phase 5,Commercial,2.0,0.0,,10400000.0,2021,2025-01-09,Yes,1.0,1.7,Dealer,Available
+PK-0440,Islamabad,Bahria Town Phase 7,Commercial,4.0,0.0,,31750000.0,2000,2025-06-21,No,2.0,10.5,Dealer,Available
+PK-0441,Multan,Gulgasht Colony,House,20.0,7.0,7.0,28450000.0,2006,2026-03-30,Yes,2.0,1.3,Dealer,Available
+PK-0442,Lahore,Model Town,House,20.0,6.0,7.0,66000000.0,2009,2025-09-16,No,2.0,6.0,Dealer,Available
+PK-0443,Multan,Gulgasht Colony,House,10.0,5.0,6.0,22000000.0,2017,2025-01-02,No,2.0,9.6,Dealer,Available
+PK-0444,Karachi,DHA Phase 6,Commercial,12.0,0.0,4.0,75200000.0,2013,2026-03-31,Yes,0.0,5.0,Owner,Available
+PK-0445,Karachi,Gulistan-e-Jauhar,House,7.0,3.0,4.0,24350000.0,2000,2025-11-01,No,1.0,2.6,Dealer,Sold
+PK-0446,Lahore,Valencia Town,House,10.0,4.0,4.0,42050000.0,2004,2026-09-04,No,3.0,1.3,Owner,Sold
+PK-0447,Multan,Shah Rukn-e-Alam Colony,House,7.0,4.0,5.0,5250000.0,2006,2026-06-12,Yes,2.0,15.0,Owner,Sold
+PK-0448,Karachi,Clifton,House,20.0,6.0,7.0,49300000.0,2004,2025-08-04,No,3.0,5.0,Builder,Available
+PK-0449,Islamabad,Bahria Town Phase 7,House,40.0,7.0,,117500000.0,1994,2026-01-06,No,3.0,2.7,Owner,Pending
+PK-0450,Lahore,Askari 10,Plot,5.0,0.0,0.0,15900000.0,2021,2026-08-12,No,0.0,6.6,Owner,Available
+PK-0451,Karachi,Bahria Town Karachi,House,5.0,3.0,4.0,11550000.0,1999,2026-06-24,Yes,1.0,7.0,Owner,Available
+PK-0452,Islamabad,G-13,Plot,20.0,0.0,0.0,64500000.0,2000,2026-08-02,No,0.0,3.0,Builder,Available
+PK-0453,Karachi,DHA Phase 6,Flat,6.0,3.0,4.0,17300000.0,2013,2026-08-19,No,1.0,2.1,Owner,Sold
+PK-0454,Multan,Buch Villas,House,10.0,4.0,4.0,11500000.0,2009,2025-08-22,Yes,3.0,3.9,Owner,Sold
+PK-0455,Lahore,Wapda Town,Flat,3.0,2.0,3.0,9600000.0,1997,2026-07-16,No,1.0,6.3,Dealer,Available
+PK-0456,Islamabad,B-17,House,20.0,6.0,6.0,,1994,2025-03-20,No,1.0,4.6,Owner,Sold
+PK-0457,Multan,Buch Villas,House,40.0,7.0,7.0,96350000.0,2001,2025-08-02,No,3.0,4.6,Builder,Available
+PK-0458,Lahore,,Commercial,12.0,0.0,4.0,74150000.0,2001,2025-11-25,Yes,0.0,12.0,Owner,Available
+PK-0459,Faisalabad,Eden Gardens,Commercial,8.0,0.0,2.0,22500000.0,2010,2025-06-21,No,1.0,3.4,Dealer,Pending
+PK-0460,Islamabad,Gulberg Greens,House,5.0,3.0,4.0,19150000.0,2014,2025-07-29,Yes,2.0,3.5,Dealer,Available
+PK-0461,Islamabad,Gulberg Greens,House,5.0,4.0,4.0,26850000.0,1991,2025-08-21,No,2.0,2.6,Dealer,Sold
+PK-0462,Lahore,Wapda Town,Flat,2.0,1.0,2.0,5800000.0,1994,2025-01-29,No,0.0,4.2,Owner,Available
+PK-0463,Karachi,Gulshan-e-Iqbal,Flat,4.0,1.0,1.0,7600000.0,1999,2026-08-04,No,0.0,5.0,Dealer,Available
+PK-0464,Karachi,Clifton,Flat,4.0,1.0,1.0,9350000.0,2021,2025-02-26,No,1.0,13.0,Dealer,Pending
+PK-0465,Islamabad,E-11,House,7.0,3.0,4.0,34450000.0,2011,2025-05-29,Yes,2.0,9.5,Dealer,Pending
+PK-0466,Faisalabad,Madina Town,Flat,4.0,2.0,3.0,3900000.0,2009,2025-08-03,No,0.0,3.3,Dealer,Sold
+PK-0467,Lahore,Johar Town,House,5.0,2.0,,19100000.0,2002,2025-06-06,No,1.0,7.8,Dealer,Sold
+PK-0468,Multan,Cantt,Flat,2.0,2.0,2.0,2150000.0,2001,2026-08-24,No,0.0,9.3,Owner,Available
+PK-0469,Lahore,Gulberg,House,20.0,6.0,7.0,79650000.0,2015,2026-01-30,No,1.0,16.0,Dealer,Pending
+PK-0470,Karachi,North Nazimabad,House,7.0,4.0,5.0,26300000.0,2025,2025-05-30,No,3.0,10.9,Dealer,Sold
+PK-0471,Faisalabad,Jinnah Colony,Plot,10.0,0.0,0.0,19050000.0,1991,2025-02-27,No,0.0,24.3,,Available
+PK-0472,Karachi,DHA Phase 6,House,10.0,5.0,6.0,21950000.0,2020,2025-09-01,No,1.0,13.3,Builder,Available
+PK-0473,Multan,Wapda Town Multan,Flat,3.0,1.0,1.0,3400000.0,2004,2026-04-05,No,1.0,7.4,Builder,Available
+PK-0474,Faisalabad,Jinnah Colony,House,7.0,3.0,3.0,10350000.0,2012,2026-08-27,Yes,3.0,15.3,Owner,Pending
+PK-0475,Karachi,Gulshan-e-Iqbal,Flat,4.0,2.0,3.0,7950000.0,1999,2025-10-18,No,0.0,9.1,Owner,Sold
+PK-0476,Islamabad,Gulberg Greens,House,5.0,3.0,4.0,,2007,2025-10-15,No,1.0,5.6,Owner,Sold
+PK-0477,Karachi,PECHS,Flat,4.0,2.0,3.0,9300000.0,2002,2025-10-06,Yes,1.0,11.0,Owner,Available
+PK-0478,Islamabad,DHA Phase 2,Flat,6.0,3.0,3.0,20000000.0,2002,2025-09-24,Yes,1.0,12.5,Owner,Available
+PK-0479,Faisalabad,Canal Road,Flat,4.0,1.0,2.0,8400000.0,2022,2026-05-23,Yes,1.0,8.7,Owner,Sold
+PK-0480,Lahore,Johar Town,House,20.0,7.0,7.0,65650000.0,1997,2026-02-26,Yes,1.0,15.2,Dealer,Sold
+PK-0481,Karachi,North Nazimabad,House,5.0,3.0,3.0,13350000.0,2020,2025-06-18,No,2.0,2.3,Dealer,Available
+PK-0482,Lahore,DHA Phase 5,Flat,4.0,3.0,,12450000.0,2000,2026-07-12,Yes,0.0,1.4,Owner,Available
+PK-0483,Islamabad,G-13,House,7.0,5.0,6.0,21000000.0,1998,2025-11-22,No,3.0,12.0,Dealer,Available
+PK-0484,Lahore,Askari 10,Plot,10.0,0.0,0.0,22400000.0,2015,2026-04-29,No,0.0,3.7,Owner,Available
+PK-0485,Lahore,Gulberg,House,7.0,3.0,4.0,16050000.0,1999,2026-08-15,No,3.0,18.4,Owner,Available
+PK-0486,Islamabad,G-13,Flat,2.0,1.0,1.0,7050000.0,2011,2025-03-12,No,0.0,1.3,Dealer,Sold
+PK-0487,Lahore,Gulberg,Commercial,12.0,0.0,4.0,64900000.0,2006,2026-04-28,No,1.0,3.5,Dealer,Sold
+PK-0488,Karachi,Scheme 33,Commercial,2.0,0.0,2.0,7600000.0,2010,2026-05-31,No,1.0,4.7,Dealer,Available
+PK-0489,Islamabad,F-10,Flat,8.0,3.0,4.0,18400000.0,2021,2025-01-29,Yes,1.0,13.9,Dealer,Available
+PK-0490,Karachi,Bahria Town Karachi,Flat,2.0,2.0,3.0,4000000.0,2003,2025-06-20,Yes,0.0,1.6,Builder,Available
+PK-0491,Multan,,House,20.0,7.0,7.0,28450000.0,2012,2025-10-02,Yes,1.0,13.1,Builder,Available
+PK-0492,Lahore,Model Town,Plot,20.0,0.0,0.0,48600000.0,2017,2025-03-01,No,0.0,4.3,Owner,Available
+PK-0493,Islamabad,Gulberg Greens,House,20.0,7.0,7.0,77850000.0,2005,2026-09-24,Yes,3.0,5.3,Owner,Sold
+PK-0494,Karachi,Scheme 33,Flat,3.0,1.0,1.0,7750000.0,2007,2026-09-07,No,1.0,10.0,Dealer,Available
+PK-0495,Lahore,Valencia Town,House,20.0,6.0,7.0,77500000.0,2012,2026-01-28,No,,3.4,,Pending
+PK-0496,Karachi,Gulshan-e-Iqbal,House,10.0,5.0,6.0,42000000.0,2015,2026-07-12,No,2.0,5.2,Owner,Sold
+PK-0497,Faisalabad,Canal Road,Flat,8.0,4.0,4.0,12750000.0,1997,2025-05-10,No,0.0,2.2,Dealer,Sold
+PK-0498,Karachi,Gulistan-e-Jauhar,Commercial,8.0,,4.0,39350000.0,2024,2025-06-07,No,1.0,5.1,Dealer,Sold
+PK-0499,Islamabad,E-11,House,10.0,4.0,4.0,30700000.0,2002,2026-04-08,Yes,1.0,7.8,Dealer,Sold
+PK-0500,Karachi,Bahria Town Karachi,House,10.0,4.0,5.0,28250000.0,2002,2025-12-20,Yes,,12.5,Owner,Sold
