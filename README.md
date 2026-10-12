@@ -152,6 +152,8 @@ If `reportlab` is not installed, the notebook prints a message and skips only th
 
 ## Author
 
-**<your-name>**: [LinkedIn](https://www.linkedin.com/in/<your-profile>) | [GitHub](https://github.com/<your-username>)
+**<LinkeDin>**: [LinkedIn](www.linkedin.com/in/mehtab--hussain
+
+) | [GitHub](https://github.com/mahtabhussainofficial)
 
 Add a `LICENSE` file (for example MIT) before publishing.
